@@ -1,0 +1,620 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW103678",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1174202361547,
+      "longitude": 144.054131933953
+    },
+    {
+      "id": "CW133289",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1155509690125,
+      "longitude": 144.057204797599
+    },
+    {
+      "id": "CW133290",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1157497823905,
+      "longitude": 144.058130415957
+    },
+    {
+      "id": "CW133689",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1152345317912,
+      "longitude": 144.056953152127
+    },
+    {
+      "id": "CW147290",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1112856236126,
+      "longitude": 144.067404117567
+    },
+    {
+      "id": "CW187701",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1081220614439,
+      "longitude": 144.062193138003
+    },
+    {
+      "id": "CW190101",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1101052631146,
+      "longitude": 144.068733904497
+    },
+    {
+      "id": "CW198102",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1126194003781,
+      "longitude": 144.054615512348
+    },
+    {
+      "id": "CW198103",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1113817921825,
+      "longitude": 144.069321736297
+    },
+    {
+      "id": "CW198902",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1161185924778,
+      "longitude": 144.053041574252
+    },
+    {
+      "id": "CW2058",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1067149074883,
+      "longitude": 144.066030281134
+    },
+    {
+      "id": "CW2059",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1067960912681,
+      "longitude": 144.061178799605
+    },
+    {
+      "id": "CW2060",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1078024038044,
+      "longitude": 144.061950742879
+    },
+    {
+      "id": "CW2061",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1068964560462,
+      "longitude": 144.060973936119
+    },
+    {
+      "id": "CW2062",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1146714475088,
+      "longitude": 144.056198261549
+    },
+    {
+      "id": "CW2063",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.114927930964,
+      "longitude": 144.06033830819
+    },
+    {
+      "id": "CW2064",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1157236302556,
+      "longitude": 144.063588210709
+    },
+    {
+      "id": "CW252903",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1118579302472,
+      "longitude": 144.065822871908
+    },
+    {
+      "id": "CW274902",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1070311682159,
+      "longitude": 144.065608635087
+    },
+    {
+      "id": "CW289302",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1033947947952,
+      "longitude": 144.06337600668
+    },
+    {
+      "id": "CW290903",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1090542732292,
+      "longitude": 144.06469654417
+    },
+    {
+      "id": "CW38459",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1118256457426,
+      "longitude": 144.068131878959
+    },
+    {
+      "id": "CW6241",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1128590413651,
+      "longitude": 144.067450831706
+    },
+    {
+      "id": "CW6243",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1134338391942,
+      "longitude": 144.067369406455
+    },
+    {
+      "id": "CW6317",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1181122822519,
+      "longitude": 144.05537982992
+    },
+    {
+      "id": "CW6318",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1187100229399,
+      "longitude": 144.055856413886
+    },
+    {
+      "id": "CW6651",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0956573590246,
+      "longitude": 144.126718384181
+    },
+    {
+      "id": "CW6796",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1106392544546,
+      "longitude": 144.067401959041
+    },
+    {
+      "id": "CW6989",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1071118781875,
+      "longitude": 144.09567581012
+    },
+    {
+      "id": "CW76478",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1110927397004,
+      "longitude": 144.070927919675
+    },
+    {
+      "id": "CW8373",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1127129103651,
+      "longitude": 144.059231411363
+    },
+    {
+      "id": "CW8374",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1061877352396,
+      "longitude": 144.062512072996
+    },
+    {
+      "id": "CW8375",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1072292017857,
+      "longitude": 144.065043637514
+    },
+    {
+      "id": "CW8376",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1057646821235,
+      "longitude": 144.063899065344
+    },
+    {
+      "id": "CW8377",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1041404201575,
+      "longitude": 144.064003866123
+    },
+    {
+      "id": "CW8378",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1050958459831,
+      "longitude": 144.061585973351
+    },
+    {
+      "id": "CW8379",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1056565339779,
+      "longitude": 144.060241134608
+    },
+    {
+      "id": "CW8380",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1072896027271,
+      "longitude": 144.063008911557
+    },
+    {
+      "id": "CW8381",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1072814673693,
+      "longitude": 144.060256561018
+    },
+    {
+      "id": "CW8382",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1044858132523,
+      "longitude": 144.062840198938
+    },
+    {
+      "id": "CW8383",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1064271885896,
+      "longitude": 144.0622992601
+    },
+    {
+      "id": "CW8384",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1095849720042,
+      "longitude": 144.063056235221
+    },
+    {
+      "id": "CW8385",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1072449474691,
+      "longitude": 144.050462122303
+    },
+    {
+      "id": "CW8386",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1083760012673,
+      "longitude": 144.052826204696
+    },
+    {
+      "id": "CW8387",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1199946606347,
+      "longitude": 144.051731511011
+    },
+    {
+      "id": "CW8388",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1135495945466,
+      "longitude": 144.052743069432
+    },
+    {
+      "id": "CW8389",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1120865740031,
+      "longitude": 144.065126183662
+    },
+    {
+      "id": "CW8390",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1154970106268,
+      "longitude": 144.054263061424
+    },
+    {
+      "id": "CW8391",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1167572876634,
+      "longitude": 144.056083771295
+    },
+    {
+      "id": "CW8392",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1141704150421,
+      "longitude": 144.056888628385
+    },
+    {
+      "id": "CW8393",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1143618845344,
+      "longitude": 144.055933237055
+    },
+    {
+      "id": "CW8394",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1133109984999,
+      "longitude": 144.064587866054
+    },
+    {
+      "id": "CW8395",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1131208906276,
+      "longitude": 144.05847205807
+    },
+    {
+      "id": "CW8396",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.111617163364,
+      "longitude": 144.057243248864
+    },
+    {
+      "id": "CW8397",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1104557207885,
+      "longitude": 144.054569307286
+    },
+    {
+      "id": "CW8398",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1114268441527,
+      "longitude": 144.053593447435
+    },
+    {
+      "id": "CW8399",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1053326688576,
+      "longitude": 144.068149758302
+    },
+    {
+      "id": "CW8400",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1069002574763,
+      "longitude": 144.069702873148
+    },
+    {
+      "id": "CW8401",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1073137436601,
+      "longitude": 144.067798025954
+    },
+    {
+      "id": "CW8402",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1066475621377,
+      "longitude": 144.067550259052
+    },
+    {
+      "id": "CW8403",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1053334099134,
+      "longitude": 144.065335794467
+    },
+    {
+      "id": "CW8404",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1090740343707,
+      "longitude": 144.067909243708
+    },
+    {
+      "id": "CW8405",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1093090203876,
+      "longitude": 144.06984773733
+    },
+    {
+      "id": "CW8406",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1096090755826,
+      "longitude": 144.071472564124
+    },
+    {
+      "id": "CW8407",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1099341621103,
+      "longitude": 144.073303214324
+    },
+    {
+      "id": "CW8408",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1106817254792,
+      "longitude": 144.075704182914
+    },
+    {
+      "id": "CW8409",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1091298144458,
+      "longitude": 144.07664207256
+    },
+    {
+      "id": "CW8410",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1086192632692,
+      "longitude": 144.078188123898
+    },
+    {
+      "id": "CW8411",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1117186108003,
+      "longitude": 144.066026974445
+    },
+    {
+      "id": "CW8412",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1100353429729,
+      "longitude": 144.066925803555
+    },
+    {
+      "id": "CW8413",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1104259952638,
+      "longitude": 144.065521175253
+    },
+    {
+      "id": "CW8414",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1097405897704,
+      "longitude": 144.07483166762
+    },
+    {
+      "id": "CW8613",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1071569052477,
+      "longitude": 144.095674651915
+    },
+    {
+      "id": "CW8945",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1105805705984,
+      "longitude": 144.063934090335
+    },
+    {
+      "id": "CW8959",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1136220190977,
+      "longitude": 144.066341770854
+    },
+    {
+      "id": "CW9001",
+      "suburb": "Newstead",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1112660389285,
+      "longitude": 144.072093620818
+    },
+    {
+      "id": "CW400014",
+      "suburb": "Newstead",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -37.1121060981424,
+      "longitude": 144.054190786718
+    }
+  ]
+}

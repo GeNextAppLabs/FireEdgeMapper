@@ -1,0 +1,428 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW141",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.7998740165609,
+      "longitude": 144.231162570493
+    },
+    {
+      "id": "CW142",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.7984028121437,
+      "longitude": 144.232407927667
+    },
+    {
+      "id": "CW172495",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9561753153263,
+      "longitude": 144.371764506794
+    },
+    {
+      "id": "CW172496",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.956906944534,
+      "longitude": 144.366565441068
+    },
+    {
+      "id": "CW272902",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.8021221643818,
+      "longitude": 144.250808529768
+    },
+    {
+      "id": "CW6001",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9596260512003,
+      "longitude": 144.372905378147
+    },
+    {
+      "id": "CW6323",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.951992124145,
+      "longitude": 144.369427112169
+    },
+    {
+      "id": "CW6324",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9521412451005,
+      "longitude": 144.370737946306
+    },
+    {
+      "id": "CW6325",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9522197046698,
+      "longitude": 144.371738507394
+    },
+    {
+      "id": "CW6326",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9523517388735,
+      "longitude": 144.372554757865
+    },
+    {
+      "id": "CW6327",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9532096167304,
+      "longitude": 144.372351838417
+    },
+    {
+      "id": "CW6328",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.951497248637,
+      "longitude": 144.372718142039
+    },
+    {
+      "id": "CW6329",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9510575133691,
+      "longitude": 144.37331864749
+    },
+    {
+      "id": "CW6330",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9508542337018,
+      "longitude": 144.374202858211
+    },
+    {
+      "id": "CW6450",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.7983753025731,
+      "longitude": 144.22972556762
+    },
+    {
+      "id": "CW6451",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.7995462763439,
+      "longitude": 144.229557135438
+    },
+    {
+      "id": "CW6452",
+      "suburb": "Gunbower Island Scheme",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.7990291052115,
+      "longitude": 144.22949176556
+    },
+    {
+      "id": "CW7396",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9537904614643,
+      "longitude": 144.373139729079
+    },
+    {
+      "id": "CW7397",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9541268840082,
+      "longitude": 144.372632448884
+    },
+    {
+      "id": "CW7398",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9544250007178,
+      "longitude": 144.373301170865
+    },
+    {
+      "id": "CW7399",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9549540450827,
+      "longitude": 144.373832361249
+    },
+    {
+      "id": "CW7400",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9551046933506,
+      "longitude": 144.371135769447
+    },
+    {
+      "id": "CW7401",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9559501083329,
+      "longitude": 144.37352139674
+    },
+    {
+      "id": "CW7402",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9558536750868,
+      "longitude": 144.370010483403
+    },
+    {
+      "id": "CW7403",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9558152238355,
+      "longitude": 144.369060719576
+    },
+    {
+      "id": "CW7404",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9558072332138,
+      "longitude": 144.367541535059
+    },
+    {
+      "id": "CW7405",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9558049489483,
+      "longitude": 144.365815217241
+    },
+    {
+      "id": "CW7408",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9562721719048,
+      "longitude": 144.369130803943
+    },
+    {
+      "id": "CW7409",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9562701181148,
+      "longitude": 144.368354824723
+    },
+    {
+      "id": "CW7410",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9565771262722,
+      "longitude": 144.372607397592
+    },
+    {
+      "id": "CW7411",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9562664987133,
+      "longitude": 144.366986716299
+    },
+    {
+      "id": "CW7412",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.956274783279,
+      "longitude": 144.365257332596
+    },
+    {
+      "id": "CW7413",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9562719453181,
+      "longitude": 144.364118715291
+    },
+    {
+      "id": "CW7414",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9566785679768,
+      "longitude": 144.370708963531
+    },
+    {
+      "id": "CW7415",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9570821638389,
+      "longitude": 144.370385477337
+    },
+    {
+      "id": "CW7416",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.95723722143,
+      "longitude": 144.371603224375
+    },
+    {
+      "id": "CW7417",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9572136356634,
+      "longitude": 144.36400843079
+    },
+    {
+      "id": "CW7418",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9574945904651,
+      "longitude": 144.366349791222
+    },
+    {
+      "id": "CW7419",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9574958311855,
+      "longitude": 144.365195755363
+    },
+    {
+      "id": "CW7420",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9585113179157,
+      "longitude": 144.369328110942
+    },
+    {
+      "id": "CW7421",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9585152029953,
+      "longitude": 144.366814229311
+    },
+    {
+      "id": "CW7422",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9584118487691,
+      "longitude": 144.364006147613
+    },
+    {
+      "id": "CW7423",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9586702642094,
+      "longitude": 144.36533400728
+    },
+    {
+      "id": "CW8618",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9584972451433,
+      "longitude": 144.371796557898
+    },
+    {
+      "id": "CW9198",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9559142042484,
+      "longitude": 144.369928171731
+    },
+    {
+      "id": "CW9199",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9562557521241,
+      "longitude": 144.36960056897
+    },
+    {
+      "id": "CW9201",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9575582759182,
+      "longitude": 144.370865163855
+    },
+    {
+      "id": "CW9202",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9572807602766,
+      "longitude": 144.37130205549
+    },
+    {
+      "id": "CW9203",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9558159204837,
+      "longitude": 144.363699136012
+    },
+    {
+      "id": "CW9204",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9557961348722,
+      "longitude": 144.363710934879
+    },
+    {
+      "id": "CW9205",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.956268264447,
+      "longitude": 144.363733502718
+    },
+    {
+      "id": "CW970",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.9574925726483,
+      "longitude": 144.369263918637
+    },
+    {
+      "id": "CW971",
+      "suburb": "Gunbower",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -35.957493726959,
+      "longitude": 144.367510843229
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1131",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2308456448181,
+      "longitude": 143.752573413044
+    },
+    {
+      "id": "CW1132",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2301083711927,
+      "longitude": 143.75464617561
+    },
+    {
+      "id": "CW1133",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2299029588378,
+      "longitude": 143.755296988006
+    },
+    {
+      "id": "CW1134",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2294417983021,
+      "longitude": 143.756694021867
+    },
+    {
+      "id": "CW1135",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2290788772901,
+      "longitude": 143.757730857431
+    },
+    {
+      "id": "CW1136",
+      "suburb": "Mysia",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2286474839807,
+      "longitude": 143.758988840595
+    },
+    {
+      "id": "CW400029",
+      "suburb": "Mysia",
+      "description": "Private Standpipe NP",
+      "type": "Standpipe NP",
+      "latitude": -36.2301078119641,
+      "longitude": 143.756146930105
+    }
+  ]
+}

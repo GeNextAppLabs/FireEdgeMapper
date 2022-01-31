@@ -1,0 +1,60 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1243",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2720302257423,
+      "longitude": 143.597826984743
+    },
+    {
+      "id": "CW1248",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2731230241292,
+      "longitude": 143.597625907164
+    },
+    {
+      "id": "CW400041",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Standpipe NP",
+      "latitude": -36.273398354078,
+      "longitude": 143.599855350447
+    },
+    {
+      "id": "CW9228",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.273680784731,
+      "longitude": 143.602424910278
+    },
+    {
+      "id": "CW9229",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2734543284021,
+      "longitude": 143.600405582592
+    },
+    {
+      "id": "CW9230",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2733417522177,
+      "longitude": 143.599280631439
+    },
+    {
+      "id": "CW9231",
+      "suburb": "Wychitella",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2731204680349,
+      "longitude": 143.597650054604
+    }
+  ]
+}

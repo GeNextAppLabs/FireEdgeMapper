@@ -1,0 +1,1404 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW101678",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9851032733315,
+      "longitude": 144.067691840518
+    },
+    {
+      "id": "CW101679",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9860832263049,
+      "longitude": 144.066783190956
+    },
+    {
+      "id": "CW132089",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9873949081512,
+      "longitude": 144.067302075158
+    },
+    {
+      "id": "CW136089",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9877863901516,
+      "longitude": 144.070627012786
+    },
+    {
+      "id": "CW1496",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9955735615789,
+      "longitude": 144.067876444435
+    },
+    {
+      "id": "CW1497",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9845188451974,
+      "longitude": 144.069676154737
+    },
+    {
+      "id": "CW1498",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9864566488048,
+      "longitude": 144.070313290437
+    },
+    {
+      "id": "CW1499",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9864085468151,
+      "longitude": 144.077798494557
+    },
+    {
+      "id": "CW1500",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9901311104123,
+      "longitude": 144.074579768189
+    },
+    {
+      "id": "CW1501",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9898922121926,
+      "longitude": 144.076548797151
+    },
+    {
+      "id": "CW1502",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.989429829413,
+      "longitude": 144.076483313889
+    },
+    {
+      "id": "CW1503",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9934345654537,
+      "longitude": 144.081355935532
+    },
+    {
+      "id": "CW165692",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9856278715073,
+      "longitude": 144.087500457716
+    },
+    {
+      "id": "CW1948",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.992046516669,
+      "longitude": 144.082013262023
+    },
+    {
+      "id": "CW1949",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9945788993345,
+      "longitude": 144.082074965383
+    },
+    {
+      "id": "CW1950",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9920595377031,
+      "longitude": 144.085760054737
+    },
+    {
+      "id": "CW1951",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9916770840159,
+      "longitude": 144.088358851232
+    },
+    {
+      "id": "CW1952",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9928643843648,
+      "longitude": 144.091558227626
+    },
+    {
+      "id": "CW1953",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9931856902193,
+      "longitude": 144.092844750382
+    },
+    {
+      "id": "CW1954",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0067576823437,
+      "longitude": 144.074571561381
+    },
+    {
+      "id": "CW1955",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0071553724745,
+      "longitude": 144.073541678536
+    },
+    {
+      "id": "CW1956",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0030670357172,
+      "longitude": 144.067781291125
+    },
+    {
+      "id": "CW1957",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0038872676765,
+      "longitude": 144.066956359425
+    },
+    {
+      "id": "CW1958",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0047566765143,
+      "longitude": 144.066391149945
+    },
+    {
+      "id": "CW1959",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0039272504801,
+      "longitude": 144.068779383496
+    },
+    {
+      "id": "CW1960",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0058566708695,
+      "longitude": 144.069775850957
+    },
+    {
+      "id": "CW1961",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0030669533813,
+      "longitude": 144.069619003256
+    },
+    {
+      "id": "CW1962",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0046631614716,
+      "longitude": 144.071611886844
+    },
+    {
+      "id": "CW1963",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0035289383802,
+      "longitude": 144.071347038121
+    },
+    {
+      "id": "CW1964",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0036475138727,
+      "longitude": 144.066009814068
+    },
+    {
+      "id": "CW1965",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0041879751297,
+      "longitude": 144.064868195736
+    },
+    {
+      "id": "CW1966",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0061533521377,
+      "longitude": 144.064702660619
+    },
+    {
+      "id": "CW1967",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0046657773598,
+      "longitude": 144.062450433421
+    },
+    {
+      "id": "CW1968",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0055312394319,
+      "longitude": 144.063215792988
+    },
+    {
+      "id": "CW1969",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0070734567813,
+      "longitude": 144.063106919561
+    },
+    {
+      "id": "CW1970",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0084209125806,
+      "longitude": 144.060780811135
+    },
+    {
+      "id": "CW1971",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9981665078745,
+      "longitude": 144.066373553405
+    },
+    {
+      "id": "CW1972",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9963694925249,
+      "longitude": 144.063215590084
+    },
+    {
+      "id": "CW1973",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.006372422954,
+      "longitude": 144.066290042873
+    },
+    {
+      "id": "CW1974",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0092118924041,
+      "longitude": 144.065947548378
+    },
+    {
+      "id": "CW1975",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0084332213711,
+      "longitude": 144.065583340139
+    },
+    {
+      "id": "CW1976",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0065761650053,
+      "longitude": 144.067424544846
+    },
+    {
+      "id": "CW1977",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9959631965558,
+      "longitude": 144.068950120261
+    },
+    {
+      "id": "CW1978",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9930273495749,
+      "longitude": 144.070779947299
+    },
+    {
+      "id": "CW1979",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9932095569027,
+      "longitude": 144.071324796013
+    },
+    {
+      "id": "CW1980",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9940219320797,
+      "longitude": 144.070910662288
+    },
+    {
+      "id": "CW1981",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9949128056487,
+      "longitude": 144.070678734168
+    },
+    {
+      "id": "CW1982",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9960105728722,
+      "longitude": 144.070219461959
+    },
+    {
+      "id": "CW1983",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9946333770029,
+      "longitude": 144.068777012343
+    },
+    {
+      "id": "CW1984",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9957981247058,
+      "longitude": 144.069853933352
+    },
+    {
+      "id": "CW1985",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9966158737024,
+      "longitude": 144.069698008951
+    },
+    {
+      "id": "CW1986",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9973464072709,
+      "longitude": 144.068987603589
+    },
+    {
+      "id": "CW1987",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9945041330394,
+      "longitude": 144.06688436157
+    },
+    {
+      "id": "CW1988",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9972312395057,
+      "longitude": 144.06860092157
+    },
+    {
+      "id": "CW1989",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9886613407097,
+      "longitude": 144.059519366105
+    },
+    {
+      "id": "CW1990",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9907164186487,
+      "longitude": 144.060329510569
+    },
+    {
+      "id": "CW1991",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9888259915199,
+      "longitude": 144.060425249872
+    },
+    {
+      "id": "CW1992",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9892316818793,
+      "longitude": 144.061524190902
+    },
+    {
+      "id": "CW1993",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9888954382734,
+      "longitude": 144.062740664942
+    },
+    {
+      "id": "CW1994",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9879933845325,
+      "longitude": 144.061097074974
+    },
+    {
+      "id": "CW1995",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9883011547276,
+      "longitude": 144.068396456966
+    },
+    {
+      "id": "CW1996",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9887275849682,
+      "longitude": 144.072003053544
+    },
+    {
+      "id": "CW1997",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9873962056992,
+      "longitude": 144.069482637222
+    },
+    {
+      "id": "CW1998",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9849440126551,
+      "longitude": 144.074555585418
+    },
+    {
+      "id": "CW1999",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9821312765733,
+      "longitude": 144.07491609744
+    },
+    {
+      "id": "CW2000",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9810927175195,
+      "longitude": 144.07447499659
+    },
+    {
+      "id": "CW2001",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9799388152655,
+      "longitude": 144.07318655268
+    },
+    {
+      "id": "CW200101",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9964236590799,
+      "longitude": 144.068499179423
+    },
+    {
+      "id": "CW200102",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9932267823528,
+      "longitude": 144.07854889733
+    },
+    {
+      "id": "CW2002",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9793484457847,
+      "longitude": 144.072527353985
+    },
+    {
+      "id": "CW2003",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0060644740805,
+      "longitude": 144.068815309236
+    },
+    {
+      "id": "CW2004",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0073553376851,
+      "longitude": 144.07182263052
+    },
+    {
+      "id": "CW2005",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9859324319011,
+      "longitude": 144.06563298355
+    },
+    {
+      "id": "CW2006",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9850953741498,
+      "longitude": 144.062760772087
+    },
+    {
+      "id": "CW2007",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9852086573943,
+      "longitude": 144.062677604562
+    },
+    {
+      "id": "CW2008",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.986096979758,
+      "longitude": 144.067533656084
+    },
+    {
+      "id": "CW2009",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.983655971141,
+      "longitude": 144.067977970011
+    },
+    {
+      "id": "CW2010",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9822897007183,
+      "longitude": 144.067305580145
+    },
+    {
+      "id": "CW2011",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.985815335252,
+      "longitude": 144.054775111895
+    },
+    {
+      "id": "CW2012",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9848671788958,
+      "longitude": 144.058785550222
+    },
+    {
+      "id": "CW2013",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9879404961191,
+      "longitude": 144.065186801152
+    },
+    {
+      "id": "CW2014",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9881466586097,
+      "longitude": 144.066967301343
+    },
+    {
+      "id": "CW2015",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9873855993164,
+      "longitude": 144.060666101778
+    },
+    {
+      "id": "CW2016",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9934768388266,
+      "longitude": 144.06473007596
+    },
+    {
+      "id": "CW2017",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9944181247418,
+      "longitude": 144.065406984723
+    },
+    {
+      "id": "CW2018",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9927203284239,
+      "longitude": 144.065918143399
+    },
+    {
+      "id": "CW2019",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9936504719071,
+      "longitude": 144.066273074993
+    },
+    {
+      "id": "CW2020",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9930878082118,
+      "longitude": 144.076568076158
+    },
+    {
+      "id": "CW2021",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9942862099848,
+      "longitude": 144.078390908964
+    },
+    {
+      "id": "CW2023",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9966659443154,
+      "longitude": 144.075085198296
+    },
+    {
+      "id": "CW2024",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9962141019172,
+      "longitude": 144.075163217657
+    },
+    {
+      "id": "CW2025",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9945027461389,
+      "longitude": 144.076931969964
+    },
+    {
+      "id": "CW2026",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9959534712571,
+      "longitude": 144.076480747103
+    },
+    {
+      "id": "CW2027",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9939264392239,
+      "longitude": 144.075549984435
+    },
+    {
+      "id": "CW2028",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.993226014269,
+      "longitude": 144.072736793669
+    },
+    {
+      "id": "CW2029",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9929305461766,
+      "longitude": 144.074511338037
+    },
+    {
+      "id": "CW2030",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9990497445507,
+      "longitude": 144.068545512993
+    },
+    {
+      "id": "CW2031",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9984203396074,
+      "longitude": 144.068666066469
+    },
+    {
+      "id": "CW2032",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0016241583881,
+      "longitude": 144.068068721588
+    },
+    {
+      "id": "CW2033",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0002400123288,
+      "longitude": 144.068325076149
+    },
+    {
+      "id": "CW2034",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9996269710331,
+      "longitude": 144.0750717545
+    },
+    {
+      "id": "CW2035",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0018990813539,
+      "longitude": 144.078060457361
+    },
+    {
+      "id": "CW2036",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0002778233026,
+      "longitude": 144.07195729354
+    },
+    {
+      "id": "CW2037",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0010785978271,
+      "longitude": 144.075773345011
+    },
+    {
+      "id": "CW2038",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9906390155656,
+      "longitude": 144.069782706719
+    },
+    {
+      "id": "CW2039",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.989216987221,
+      "longitude": 144.070523106472
+    },
+    {
+      "id": "CW2040",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9904370458651,
+      "longitude": 144.071070437979
+    },
+    {
+      "id": "CW2041",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9913620589631,
+      "longitude": 144.071784951032
+    },
+    {
+      "id": "CW2042",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9905021851141,
+      "longitude": 144.072033479668
+    },
+    {
+      "id": "CW2043",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9898178366186,
+      "longitude": 144.069471211555
+    },
+    {
+      "id": "CW2044",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9913709774307,
+      "longitude": 144.070097251206
+    },
+    {
+      "id": "CW2046",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9920193337894,
+      "longitude": 144.067218873273
+    },
+    {
+      "id": "CW2047",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9932690576643,
+      "longitude": 144.067691660041
+    },
+    {
+      "id": "CW2048",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9928119242189,
+      "longitude": 144.068802894604
+    },
+    {
+      "id": "CW2049",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9893289913509,
+      "longitude": 144.066199833808
+    },
+    {
+      "id": "CW2050",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9906694849318,
+      "longitude": 144.066708912871
+    },
+    {
+      "id": "CW2051",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9907619262486,
+      "longitude": 144.065240014701
+    },
+    {
+      "id": "CW2052",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9916558274813,
+      "longitude": 144.065581416922
+    },
+    {
+      "id": "CW2053",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9887718575545,
+      "longitude": 144.064492804256
+    },
+    {
+      "id": "CW2054",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9927597401975,
+      "longitude": 144.061077081331
+    },
+    {
+      "id": "CW2055",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9923506275667,
+      "longitude": 144.062734086406
+    },
+    {
+      "id": "CW2056",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9920767627735,
+      "longitude": 144.063901665127
+    },
+    {
+      "id": "CW2057",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9909158446038,
+      "longitude": 144.063504816346
+    },
+    {
+      "id": "CW230102",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9845952307986,
+      "longitude": 144.070677486301
+    },
+    {
+      "id": "CW25657",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9902022715269,
+      "longitude": 144.072104871072
+    },
+    {
+      "id": "CW25658",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9887887521762,
+      "longitude": 144.072512650992
+    },
+    {
+      "id": "CW25659",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9888002060426,
+      "longitude": 144.072509392128
+    },
+    {
+      "id": "CW27258",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9879277631544,
+      "longitude": 144.063338794806
+    },
+    {
+      "id": "CW288502",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9988473841421,
+      "longitude": 144.066760934878
+    },
+    {
+      "id": "CW292102",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9921405042193,
+      "longitude": 144.071557469848
+    },
+    {
+      "id": "CW29657",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0164502220043,
+      "longitude": 144.081274626099
+    },
+    {
+      "id": "CW29658",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0188632466755,
+      "longitude": 144.080951688121
+    },
+    {
+      "id": "CW5501",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.98543929793,
+      "longitude": 144.060006866625
+    },
+    {
+      "id": "CW5516",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0062287072176,
+      "longitude": 144.061955867166
+    },
+    {
+      "id": "CW5641",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0069728363836,
+      "longitude": 144.068025887239
+    },
+    {
+      "id": "CW5685",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9945581854016,
+      "longitude": 144.07740668941
+    },
+    {
+      "id": "CW5720",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0025357251656,
+      "longitude": 144.080184148749
+    },
+    {
+      "id": "CW5721",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0033602049534,
+      "longitude": 144.082181091135
+    },
+    {
+      "id": "CW6046",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.009656640551,
+      "longitude": 144.071625554563
+    },
+    {
+      "id": "CW6047",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0092680964193,
+      "longitude": 144.06971073451
+    },
+    {
+      "id": "CW6048",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0087857793969,
+      "longitude": 144.067536478362
+    },
+    {
+      "id": "CW6133",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9994091840849,
+      "longitude": 144.070862205784
+    },
+    {
+      "id": "CW6134",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9982073367566,
+      "longitude": 144.070607100352
+    },
+    {
+      "id": "CW6135",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9968984360385,
+      "longitude": 144.070569409081
+    },
+    {
+      "id": "CW6359",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9951821958272,
+      "longitude": 144.069811336819
+    },
+    {
+      "id": "CW6411",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9776993045078,
+      "longitude": 144.043416668469
+    },
+    {
+      "id": "CW6412",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9809295717084,
+      "longitude": 144.054167823481
+    },
+    {
+      "id": "CW6413",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9792377235852,
+      "longitude": 144.0486129211
+    },
+    {
+      "id": "CW6547",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.009944572067,
+      "longitude": 144.075167923023
+    },
+    {
+      "id": "CW6548",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0115516978746,
+      "longitude": 144.078569210713
+    },
+    {
+      "id": "CW6549",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.013678261643,
+      "longitude": 144.081396155201
+    },
+    {
+      "id": "CW6649",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9899282615466,
+      "longitude": 144.063844902714
+    },
+    {
+      "id": "CW6663",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9853346901327,
+      "longitude": 144.06997492144
+    },
+    {
+      "id": "CW6664",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9850316205217,
+      "longitude": 144.070029766517
+    },
+    {
+      "id": "CW6679",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9871777109961,
+      "longitude": 144.08825733603
+    },
+    {
+      "id": "CW6680",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9868716252202,
+      "longitude": 144.090754821275
+    },
+    {
+      "id": "CW6681",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9853922555246,
+      "longitude": 144.09285533665
+    },
+    {
+      "id": "CW6762",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9845894438729,
+      "longitude": 144.070298697248
+    },
+    {
+      "id": "CW6835",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0072320956344,
+      "longitude": 144.068948112538
+    },
+    {
+      "id": "CW6986",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.010945651798,
+      "longitude": 144.057393501375
+    },
+    {
+      "id": "CW6987",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0124474299177,
+      "longitude": 144.055340545302
+    },
+    {
+      "id": "CW6988",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0103586047229,
+      "longitude": 144.076109816256
+    },
+    {
+      "id": "CW71275",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.996943337259,
+      "longitude": 144.07297595768
+    },
+    {
+      "id": "CW71276",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.997070094244,
+      "longitude": 144.070824615398
+    },
+    {
+      "id": "CW71277",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9968224132388,
+      "longitude": 144.075035464715
+    },
+    {
+      "id": "CW8367",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9965161042544,
+      "longitude": 144.064639182929
+    },
+    {
+      "id": "CW8368",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9970326104246,
+      "longitude": 144.065938719557
+    },
+    {
+      "id": "CW8369",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9866080234422,
+      "longitude": 144.063604410204
+    },
+    {
+      "id": "CW8370",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9892671303804,
+      "longitude": 144.067716112548
+    },
+    {
+      "id": "CW8371",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.99097398495,
+      "longitude": 144.068365190292
+    },
+    {
+      "id": "CW8372",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9908964861261,
+      "longitude": 144.0621630981
+    },
+    {
+      "id": "CW8620",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9969649649328,
+      "longitude": 144.067554260146
+    },
+    {
+      "id": "CW8935",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.004789860396,
+      "longitude": 144.064955021557
+    },
+    {
+      "id": "CW9144",
+      "suburb": "Maldon",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.9933024951796,
+      "longitude": 144.06003669312
+    },
+    {
+      "id": "CW400013",
+      "suburb": "Maldon",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -36.9968266881525,
+      "longitude": 144.067438343771
+    }
+  ]
+}

@@ -1,0 +1,260 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1223",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5334909421797,
+      "longitude": 144.206891630959
+    },
+    {
+      "id": "CW1224",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5352105140638,
+      "longitude": 144.203223740628
+    },
+    {
+      "id": "CW1225",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5354742898897,
+      "longitude": 144.205448111074
+    },
+    {
+      "id": "CW1226",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5356845175312,
+      "longitude": 144.207706598234
+    },
+    {
+      "id": "CW1227",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5357912693296,
+      "longitude": 144.208847396624
+    },
+    {
+      "id": "CW1228",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5342452252874,
+      "longitude": 144.209452320793
+    },
+    {
+      "id": "CW1229",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5345404974618,
+      "longitude": 144.206739012736
+    },
+    {
+      "id": "CW1230",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5348618386855,
+      "longitude": 144.199634097735
+    },
+    {
+      "id": "CW1231",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5381052288329,
+      "longitude": 144.206254745846
+    },
+    {
+      "id": "CW15257",
+      "suburb": "Sailors Gully",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7035639199888,
+      "longitude": 144.234534419762
+    },
+    {
+      "id": "CW15258",
+      "suburb": "Raywood-Sebastian Pipeline",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6817258677244,
+      "longitude": 144.222438227912
+    },
+    {
+      "id": "CW15657",
+      "suburb": "Raywood-Sebastian Pipeline",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.671896800427,
+      "longitude": 144.220609090668
+    },
+    {
+      "id": "CW15658",
+      "suburb": "Raywood-Sebastian Pipeline",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6503112495411,
+      "longitude": 144.204544646449
+    },
+    {
+      "id": "CW157691",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5326421913741,
+      "longitude": 144.200636497677
+    },
+    {
+      "id": "CW16057",
+      "suburb": "Raywood-Sebastian Pipeline",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6300556527004,
+      "longitude": 144.202243352015
+    },
+    {
+      "id": "CW16058",
+      "suburb": "Raywood-Sebastian Pipeline",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6181027422731,
+      "longitude": 144.199119172663
+    },
+    {
+      "id": "CW16457",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5946243383321,
+      "longitude": 144.19975796169
+    },
+    {
+      "id": "CW16458",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5943443628609,
+      "longitude": 144.221092327214
+    },
+    {
+      "id": "CW16459",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5840567040954,
+      "longitude": 144.216414293362
+    },
+    {
+      "id": "CW16460",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5599402050737,
+      "longitude": 144.212225204158
+    },
+    {
+      "id": "CW16461",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5453696530788,
+      "longitude": 144.212300897505
+    },
+    {
+      "id": "CW400043",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Standpipe",
+      "latitude": -36.5364359954883,
+      "longitude": 144.206476302375
+    },
+    {
+      "id": "CW7694",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5393982158242,
+      "longitude": 144.204018149007
+    },
+    {
+      "id": "CW7695",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5350298858469,
+      "longitude": 144.199255645526
+    },
+    {
+      "id": "CW7696",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5373059275588,
+      "longitude": 144.210219543485
+    },
+    {
+      "id": "CW7697",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5344533373964,
+      "longitude": 144.211418768062
+    },
+    {
+      "id": "CW7698",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5365342155608,
+      "longitude": 144.204734903071
+    },
+    {
+      "id": "CW7699",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5369800669905,
+      "longitude": 144.206422085588
+    },
+    {
+      "id": "CW7700",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5371462493407,
+      "longitude": 144.208568058481
+    },
+    {
+      "id": "CW7701",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5405998880947,
+      "longitude": 144.205877197974
+    },
+    {
+      "id": "CW7702",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5358328520987,
+      "longitude": 144.20655635322
+    },
+    {
+      "id": "CW7703",
+      "suburb": "Raywood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5336062297845,
+      "longitude": 144.207824858615
+    }
+  ]
+}

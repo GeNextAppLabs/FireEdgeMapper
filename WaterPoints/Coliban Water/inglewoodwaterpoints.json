@@ -1,0 +1,820 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1000",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5747201109037,
+      "longitude": 143.868398586541
+    },
+    {
+      "id": "CW1001",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5739762326941,
+      "longitude": 143.867990831462
+    },
+    {
+      "id": "CW1003",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5728329806526,
+      "longitude": 143.866663695708
+    },
+    {
+      "id": "CW1004",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.571900636852,
+      "longitude": 143.866150764785
+    },
+    {
+      "id": "CW1005",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5757130749737,
+      "longitude": 143.868501366703
+    },
+    {
+      "id": "CW1006",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5752124778308,
+      "longitude": 143.867973948671
+    },
+    {
+      "id": "CW1007",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5730746032921,
+      "longitude": 143.87425117247
+    },
+    {
+      "id": "CW1008",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5734914613248,
+      "longitude": 143.875069530028
+    },
+    {
+      "id": "CW1009",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5736198923832,
+      "longitude": 143.875978188346
+    },
+    {
+      "id": "CW1010",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5726847002413,
+      "longitude": 143.873102243759
+    },
+    {
+      "id": "CW1011",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5719282318954,
+      "longitude": 143.872636196773
+    },
+    {
+      "id": "CW1012",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5712953173009,
+      "longitude": 143.871890995799
+    },
+    {
+      "id": "CW1013",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5700407873889,
+      "longitude": 143.871271896215
+    },
+    {
+      "id": "CW1014",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5712756443153,
+      "longitude": 143.870229110017
+    },
+    {
+      "id": "CW1015",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5723628934062,
+      "longitude": 143.870715029271
+    },
+    {
+      "id": "CW1016",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5735453622395,
+      "longitude": 143.869894058793
+    },
+    {
+      "id": "CW1017",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5719436835274,
+      "longitude": 143.869022913831
+    },
+    {
+      "id": "CW1018",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.572835747303,
+      "longitude": 143.869509197884
+    },
+    {
+      "id": "CW1019",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5743696599493,
+      "longitude": 143.870346778477
+    },
+    {
+      "id": "CW1020",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5766041763775,
+      "longitude": 143.871871847298
+    },
+    {
+      "id": "CW1021",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5771257731406,
+      "longitude": 143.870874196499
+    },
+    {
+      "id": "CW1022",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5765517330546,
+      "longitude": 143.869941033071
+    },
+    {
+      "id": "CW1023",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5760516096925,
+      "longitude": 143.869394040576
+    },
+    {
+      "id": "CW1024",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5764286048552,
+      "longitude": 143.870795893317
+    },
+    {
+      "id": "CW1025",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.575731867829,
+      "longitude": 143.869816761157
+    },
+    {
+      "id": "CW1026",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.575395052689,
+      "longitude": 143.869339001917
+    },
+    {
+      "id": "CW1027",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.575064054495,
+      "longitude": 143.869500431043
+    },
+    {
+      "id": "CW1028",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5749033774593,
+      "longitude": 143.86967289736
+    },
+    {
+      "id": "CW1029",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5742164147847,
+      "longitude": 143.871443532821
+    },
+    {
+      "id": "CW1030",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5741306734461,
+      "longitude": 143.872955964291
+    },
+    {
+      "id": "CW1031",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5748465038031,
+      "longitude": 143.873663108585
+    },
+    {
+      "id": "CW1032",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5761315488122,
+      "longitude": 143.873788067601
+    },
+    {
+      "id": "CW1033",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5761765213589,
+      "longitude": 143.873306745134
+    },
+    {
+      "id": "CW1034",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5764503883647,
+      "longitude": 143.868291442684
+    },
+    {
+      "id": "CW1035",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5770070382746,
+      "longitude": 143.868784082049
+    },
+    {
+      "id": "CW1036",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5777143130469,
+      "longitude": 143.869347888518
+    },
+    {
+      "id": "CW1037",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5755135033993,
+      "longitude": 143.87155282983
+    },
+    {
+      "id": "CW1038",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5764868937738,
+      "longitude": 143.869122245149
+    },
+    {
+      "id": "CW1040",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5788529426514,
+      "longitude": 143.863458612826
+    },
+    {
+      "id": "CW1041",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5794208915027,
+      "longitude": 143.862543712331
+    },
+    {
+      "id": "CW1042",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5802350780229,
+      "longitude": 143.861244092826
+    },
+    {
+      "id": "CW1043",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5811498931312,
+      "longitude": 143.859740737298
+    },
+    {
+      "id": "CW1044",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5817478093387,
+      "longitude": 143.858782767921
+    },
+    {
+      "id": "CW1045",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5777543344777,
+      "longitude": 143.869914677448
+    },
+    {
+      "id": "CW1046",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5786093860028,
+      "longitude": 143.868458008467
+    },
+    {
+      "id": "CW1047",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5790468865822,
+      "longitude": 143.867625770591
+    },
+    {
+      "id": "CW1048",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5794564127394,
+      "longitude": 143.866853211648
+    },
+    {
+      "id": "CW128889",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.572137715237,
+      "longitude": 143.874966872133
+    },
+    {
+      "id": "CW152491",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5814331711207,
+      "longitude": 143.867097923805
+    },
+    {
+      "id": "CW152492",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5822546319012,
+      "longitude": 143.867470153055
+    },
+    {
+      "id": "CW212502",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5635565431186,
+      "longitude": 143.864599037811
+    },
+    {
+      "id": "CW265702",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5801403309066,
+      "longitude": 143.868508976589
+    },
+    {
+      "id": "CW265703",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5799036088526,
+      "longitude": 143.869593101222
+    },
+    {
+      "id": "CW265704",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5797538074337,
+      "longitude": 143.870299695415
+    },
+    {
+      "id": "CW400045",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Standpipe",
+      "latitude": -36.56658725381,
+      "longitude": 143.86733806634
+    },
+    {
+      "id": "CW5549",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5710590649227,
+      "longitude": 143.867210724885
+    },
+    {
+      "id": "CW6502",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5748896448038,
+      "longitude": 143.875392132336
+    },
+    {
+      "id": "CW6503",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5760824507626,
+      "longitude": 143.876051248961
+    },
+    {
+      "id": "CW6702",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5697014076078,
+      "longitude": 143.87189586125
+    },
+    {
+      "id": "CW7056",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5740832206904,
+      "longitude": 143.866849279595
+    },
+    {
+      "id": "CW7057",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5750630680354,
+      "longitude": 143.867391313747
+    },
+    {
+      "id": "CW7058",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5752196019567,
+      "longitude": 143.867089568481
+    },
+    {
+      "id": "CW7424",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5953011187771,
+      "longitude": 143.910762789967
+    },
+    {
+      "id": "CW88078",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5779377663596,
+      "longitude": 143.869956202115
+    },
+    {
+      "id": "CW88079",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5788411166178,
+      "longitude": 143.870246997274
+    },
+    {
+      "id": "CW9265",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5798095973942,
+      "longitude": 143.870570317217
+    },
+    {
+      "id": "CW9266",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5798286275661,
+      "longitude": 143.870577123651
+    },
+    {
+      "id": "CW9267",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5808778896521,
+      "longitude": 143.870937377234
+    },
+    {
+      "id": "CW9268",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5816549636535,
+      "longitude": 143.871197270856
+    },
+    {
+      "id": "CW9269",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5822386640802,
+      "longitude": 143.871389481995
+    },
+    {
+      "id": "CW9344",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5775638212322,
+      "longitude": 143.865524169443
+    },
+    {
+      "id": "CW9345",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5765504366456,
+      "longitude": 143.867124762381
+    },
+    {
+      "id": "CW9346",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.576557789782,
+      "longitude": 143.867113460194
+    },
+    {
+      "id": "CW972",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5673006144113,
+      "longitude": 143.866452297152
+    },
+    {
+      "id": "CW973",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.566252507524,
+      "longitude": 143.865869650005
+    },
+    {
+      "id": "CW974",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5650059838148,
+      "longitude": 143.865176498767
+    },
+    {
+      "id": "CW975",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5643565162026,
+      "longitude": 143.864809213867
+    },
+    {
+      "id": "CW976",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5659352575448,
+      "longitude": 143.867336560099
+    },
+    {
+      "id": "CW977",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5623112851125,
+      "longitude": 143.867556428807
+    },
+    {
+      "id": "CW978",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5643700156765,
+      "longitude": 143.867431616608
+    },
+    {
+      "id": "CW979",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5710366672119,
+      "longitude": 143.865673431951
+    },
+    {
+      "id": "CW980",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5706674356203,
+      "longitude": 143.863411267045
+    },
+    {
+      "id": "CW981",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5706744982149,
+      "longitude": 143.861992908125
+    },
+    {
+      "id": "CW982",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5707313263151,
+      "longitude": 143.860960711521
+    },
+    {
+      "id": "CW983",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5701611109689,
+      "longitude": 143.869478300789
+    },
+    {
+      "id": "CW984",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5691907658481,
+      "longitude": 143.868945001557
+    },
+    {
+      "id": "CW985",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5679278513569,
+      "longitude": 143.868253288643
+    },
+    {
+      "id": "CW986",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5685394736827,
+      "longitude": 143.867177724384
+    },
+    {
+      "id": "CW987",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5700590556547,
+      "longitude": 143.868010501796
+    },
+    {
+      "id": "CW988",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5719421175012,
+      "longitude": 143.867657341162
+    },
+    {
+      "id": "CW989",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5726700924316,
+      "longitude": 143.868054487628
+    },
+    {
+      "id": "CW990",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.573357934257,
+      "longitude": 143.86842538911
+    },
+    {
+      "id": "CW991",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5745804847364,
+      "longitude": 143.869096444921
+    },
+    {
+      "id": "CW992",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5732689551979,
+      "longitude": 143.867662857659
+    },
+    {
+      "id": "CW993",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5737727583445,
+      "longitude": 143.866303624176
+    },
+    {
+      "id": "CW994",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5745683419966,
+      "longitude": 143.866221406124
+    },
+    {
+      "id": "CW995",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.573692192051,
+      "longitude": 143.866514335678
+    },
+    {
+      "id": "CW996",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5760420526754,
+      "longitude": 143.866884546642
+    },
+    {
+      "id": "CW997",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5763005191018,
+      "longitude": 143.867543967925
+    },
+    {
+      "id": "CW998",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5754612478484,
+      "longitude": 143.86890571423
+    },
+    {
+      "id": "CW999",
+      "suburb": "Inglewood",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5757558626263,
+      "longitude": 143.867763381958
+    },
+    {
+      "id": "CW400024",
+      "suburb": "Inglewood",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -36.5759772811313,
+      "longitude": 143.867836580383
+    }
+  ]
+}

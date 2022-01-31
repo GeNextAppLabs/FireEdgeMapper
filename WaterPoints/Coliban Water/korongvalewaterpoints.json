@@ -1,0 +1,300 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW234902",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3687543622894,
+      "longitude": 143.689253870025
+    },
+    {
+      "id": "CW236102",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3687941687145,
+      "longitude": 143.689074122138
+    },
+    {
+      "id": "CW259702",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3540094709105,
+      "longitude": 143.704595375201
+    },
+    {
+      "id": "CW259703",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3549119710652,
+      "longitude": 143.704460909363
+    },
+    {
+      "id": "CW261703",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3571721771384,
+      "longitude": 143.70921968566
+    },
+    {
+      "id": "CW6360",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3558150513557,
+      "longitude": 143.699949924452
+    },
+    {
+      "id": "CW6361",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3556939267586,
+      "longitude": 143.698681728703
+    },
+    {
+      "id": "CW7425",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3550031704713,
+      "longitude": 143.706965706372
+    },
+    {
+      "id": "CW7426",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.356099913845,
+      "longitude": 143.702595430258
+    },
+    {
+      "id": "CW7427",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3562622701363,
+      "longitude": 143.704308510611
+    },
+    {
+      "id": "CW7428",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3551645881425,
+      "longitude": 143.693069561765
+    },
+    {
+      "id": "CW7429",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3564771815868,
+      "longitude": 143.706649563366
+    },
+    {
+      "id": "CW7430",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3568764593551,
+      "longitude": 143.706056002233
+    },
+    {
+      "id": "CW7431",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3597986226316,
+      "longitude": 143.70565685494
+    },
+    {
+      "id": "CW7433",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3570120212032,
+      "longitude": 143.707415931347
+    },
+    {
+      "id": "CW7434",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3571269731954,
+      "longitude": 143.708691065132
+    },
+    {
+      "id": "CW7435",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566630628163,
+      "longitude": 143.708796308781
+    },
+    {
+      "id": "CW7436",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3565929466246,
+      "longitude": 143.708058759257
+    },
+    {
+      "id": "CW7437",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3565789412555,
+      "longitude": 143.707216510896
+    },
+    {
+      "id": "CW7438",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.35641255175,
+      "longitude": 143.706108679033
+    },
+    {
+      "id": "CW7441",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3520808133964,
+      "longitude": 143.704056242794
+    },
+    {
+      "id": "CW7442",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3531271732899,
+      "longitude": 143.703908742168
+    },
+    {
+      "id": "CW7443",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3542202135429,
+      "longitude": 143.70375290537
+    },
+    {
+      "id": "CW7444",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.354897509348,
+      "longitude": 143.703658837432
+    },
+    {
+      "id": "CW7445",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3555618655539,
+      "longitude": 143.704178554002
+    },
+    {
+      "id": "CW7446",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3553230728437,
+      "longitude": 143.706266021608
+    },
+    {
+      "id": "CW7447",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3540340265205,
+      "longitude": 143.706451069116
+    },
+    {
+      "id": "CW7448",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3531160139764,
+      "longitude": 143.706590374617
+    },
+    {
+      "id": "CW7449",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3520270644562,
+      "longitude": 143.706753236545
+    },
+    {
+      "id": "CW7450",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3498452847783,
+      "longitude": 143.707081735654
+    },
+    {
+      "id": "CW7451",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3564607101507,
+      "longitude": 143.701872000317
+    },
+    {
+      "id": "CW7452",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3559569531511,
+      "longitude": 143.696565357095
+    },
+    {
+      "id": "CW7453",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3552571051717,
+      "longitude": 143.694067277173
+    },
+    {
+      "id": "CW7454",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3553499738165,
+      "longitude": 143.695068879377
+    },
+    {
+      "id": "CW7455",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554536463539,
+      "longitude": 143.696137836738
+    },
+    {
+      "id": "CW7456",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3487742722706,
+      "longitude": 143.707240916889
+    },
+    {
+      "id": "CW7457",
+      "suburb": "Korong Vale",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3483687117538,
+      "longitude": 143.703576669404
+    }
+  ]
+}

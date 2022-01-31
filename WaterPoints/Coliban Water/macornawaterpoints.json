@@ -1,0 +1,36 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1128",
+      "suburb": "Macorna",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -35.9187545070079,
+      "longitude": 144.031535985491
+    },
+    {
+      "id": "CW1129",
+      "suburb": "Macorna",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -35.9187507797779,
+      "longitude": 144.030666916973
+    },
+    {
+      "id": "CW1130",
+      "suburb": "Macorna",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -35.9165743829358,
+      "longitude": 144.031352325976
+    },
+    {
+      "id": "CW8633",
+      "suburb": "Macorna",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -35.9208935303382,
+      "longitude": 144.028414601637
+    }
+  ]
+}

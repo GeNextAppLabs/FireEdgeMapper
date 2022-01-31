@@ -1,0 +1,2460 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1153",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611542431617,
+      "longitude": 144.692464577731
+    },
+    {
+      "id": "CW1154",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611568339166,
+      "longitude": 144.691470058512
+    },
+    {
+      "id": "CW1155",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611582215349,
+      "longitude": 144.690467818982
+    },
+    {
+      "id": "CW1156",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3592636333775,
+      "longitude": 144.693206899937
+    },
+    {
+      "id": "CW1157",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3583961720853,
+      "longitude": 144.693205366932
+    },
+    {
+      "id": "CW1158",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611648298711,
+      "longitude": 144.693558466595
+    },
+    {
+      "id": "CW1159",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611641052648,
+      "longitude": 144.694495084159
+    },
+    {
+      "id": "CW1160",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611621883623,
+      "longitude": 144.695432884865
+    },
+    {
+      "id": "CW1161",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611635310511,
+      "longitude": 144.696299882661
+    },
+    {
+      "id": "CW1162",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3602688418046,
+      "longitude": 144.709666472797
+    },
+    {
+      "id": "CW1163",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3585794920306,
+      "longitude": 144.709653916227
+    },
+    {
+      "id": "CW1164",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.357539219416,
+      "longitude": 144.709562280668
+    },
+    {
+      "id": "CW1165",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3565183854034,
+      "longitude": 144.709556970791
+    },
+    {
+      "id": "CW1166",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.354858444034,
+      "longitude": 144.70954718332
+    },
+    {
+      "id": "CW1167",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3643880946858,
+      "longitude": 144.712847576022
+    },
+    {
+      "id": "CW1168",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3649402323129,
+      "longitude": 144.710250656958
+    },
+    {
+      "id": "CW1169",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3643828457659,
+      "longitude": 144.710245075136
+    },
+    {
+      "id": "CW1170",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.36358061918,
+      "longitude": 144.710235035607
+    },
+    {
+      "id": "CW1171",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3604140306377,
+      "longitude": 144.711665343368
+    },
+    {
+      "id": "CW1172",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3596865218504,
+      "longitude": 144.711655227444
+    },
+    {
+      "id": "CW1173",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3589296195464,
+      "longitude": 144.711647398619
+    },
+    {
+      "id": "CW1174",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576412825136,
+      "longitude": 144.711358066269
+    },
+    {
+      "id": "CW1176",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3568510023187,
+      "longitude": 144.711349211356
+    },
+    {
+      "id": "CW1177",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3558777916935,
+      "longitude": 144.712731213332
+    },
+    {
+      "id": "CW1178",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3551587913341,
+      "longitude": 144.712720179263
+    },
+    {
+      "id": "CW1179",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3544372314414,
+      "longitude": 144.712707749107
+    },
+    {
+      "id": "CW1180",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3654978844543,
+      "longitude": 144.715808953015
+    },
+    {
+      "id": "CW1181",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3557484900705,
+      "longitude": 144.714395114525
+    },
+    {
+      "id": "CW1182",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3549279379162,
+      "longitude": 144.71438929747
+    },
+    {
+      "id": "CW1184",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3581322780226,
+      "longitude": 144.700324997113
+    },
+    {
+      "id": "CW1185",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3632348214884,
+      "longitude": 144.700266685656
+    },
+    {
+      "id": "CW1186",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3623395856202,
+      "longitude": 144.700885160793
+    },
+    {
+      "id": "CW1187",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3613728934268,
+      "longitude": 144.690222918515
+    },
+    {
+      "id": "CW1188",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3667268083491,
+      "longitude": 144.694029360349
+    },
+    {
+      "id": "CW1189",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3663288233987,
+      "longitude": 144.693132569518
+    },
+    {
+      "id": "CW1190",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3659334550556,
+      "longitude": 144.692253987399
+    },
+    {
+      "id": "CW1191",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3636581318353,
+      "longitude": 144.69872295873
+    },
+    {
+      "id": "CW1192",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3655032814151,
+      "longitude": 144.697457240718
+    },
+    {
+      "id": "CW1193",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3645180443304,
+      "longitude": 144.698135466632
+    },
+    {
+      "id": "CW1194",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.365004249647,
+      "longitude": 144.699023390635
+    },
+    {
+      "id": "CW1195",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3641453895866,
+      "longitude": 144.699611938143
+    },
+    {
+      "id": "CW1196",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.369819608905,
+      "longitude": 144.692029436138
+    },
+    {
+      "id": "CW1197",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3678254464653,
+      "longitude": 144.700515858662
+    },
+    {
+      "id": "CW1198",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3528755389629,
+      "longitude": 144.701307403829
+    },
+    {
+      "id": "CW1199",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3520181837048,
+      "longitude": 144.701740246215
+    },
+    {
+      "id": "CW1200",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3511695026403,
+      "longitude": 144.70216867863
+    },
+    {
+      "id": "CW1201",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3530262212772,
+      "longitude": 144.699691855819
+    },
+    {
+      "id": "CW1202",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3519687364537,
+      "longitude": 144.700227835223
+    },
+    {
+      "id": "CW1203",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3509140187411,
+      "longitude": 144.702958946411
+    },
+    {
+      "id": "CW1204",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3557391118534,
+      "longitude": 144.70123321587
+    },
+    {
+      "id": "CW1205",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3544442335363,
+      "longitude": 144.70188320361
+    },
+    {
+      "id": "CW1206",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3563417948227,
+      "longitude": 144.698005196526
+    },
+    {
+      "id": "CW1207",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554818280804,
+      "longitude": 144.698419230178
+    },
+    {
+      "id": "CW1208",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3581539886229,
+      "longitude": 144.701629272594
+    },
+    {
+      "id": "CW1209",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3573769431122,
+      "longitude": 144.702003664843
+    },
+    {
+      "id": "CW1210",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566678278494,
+      "longitude": 144.702347547665
+    },
+    {
+      "id": "CW1211",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3580198309056,
+      "longitude": 144.694332811073
+    },
+    {
+      "id": "CW1212",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3589937979778,
+      "longitude": 144.69433882467
+    },
+    {
+      "id": "CW1213",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611700815566,
+      "longitude": 144.688948937292
+    },
+    {
+      "id": "CW1214",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611718323827,
+      "longitude": 144.687932568253
+    },
+    {
+      "id": "CW1215",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611748560652,
+      "longitude": 144.68684555519
+    },
+    {
+      "id": "CW1216",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3608559937376,
+      "longitude": 144.686188962375
+    },
+    {
+      "id": "CW1217",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3600005457037,
+      "longitude": 144.686185893347
+    },
+    {
+      "id": "CW1218",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3591794617383,
+      "longitude": 144.686180335216
+    },
+    {
+      "id": "CW1219",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3584138932685,
+      "longitude": 144.686180063762
+    },
+    {
+      "id": "CW1220",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576569644977,
+      "longitude": 144.686242394831
+    },
+    {
+      "id": "CW1221",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576531643058,
+      "longitude": 144.687213670725
+    },
+    {
+      "id": "CW1222",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576485664605,
+      "longitude": 144.688892017772
+    },
+    {
+      "id": "CW170494",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3488760358303,
+      "longitude": 144.698745069977
+    },
+    {
+      "id": "CW174094",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3588040946484,
+      "longitude": 144.695507981768
+    },
+    {
+      "id": "CW174095",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3581940757613,
+      "longitude": 144.695499353295
+    },
+    {
+      "id": "CW175294",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566602888989,
+      "longitude": 144.702657970854
+    },
+    {
+      "id": "CW230902",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611895549984,
+      "longitude": 144.676254978226
+    },
+    {
+      "id": "CW230903",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611774013879,
+      "longitude": 144.681193953561
+    },
+    {
+      "id": "CW241702",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3530887097284,
+      "longitude": 144.690836866763
+    },
+    {
+      "id": "CW39259",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3605167835858,
+      "longitude": 144.703440709676
+    },
+    {
+      "id": "CW39260",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3622109499098,
+      "longitude": 144.702659743716
+    },
+    {
+      "id": "CW44474",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3544004159386,
+      "longitude": 144.711313447933
+    },
+    {
+      "id": "CW44475",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3544093336501,
+      "longitude": 144.709562787727
+    },
+    {
+      "id": "CW44476",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3544092769831,
+      "longitude": 144.709573932179
+    },
+    {
+      "id": "CW5722",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3645257850295,
+      "longitude": 144.715746620751
+    },
+    {
+      "id": "CW5748",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.366709940823,
+      "longitude": 144.715572894412
+    },
+    {
+      "id": "CW5749",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3675386475472,
+      "longitude": 144.715571580991
+    },
+    {
+      "id": "CW5750",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3683688143457,
+      "longitude": 144.715570268935
+    },
+    {
+      "id": "CW5751",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.369197800323,
+      "longitude": 144.715568957476
+    },
+    {
+      "id": "CW5752",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3697105121384,
+      "longitude": 144.715568147968
+    },
+    {
+      "id": "CW5853",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3604109448331,
+      "longitude": 144.715564610598
+    },
+    {
+      "id": "CW5854",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3612218998968,
+      "longitude": 144.715571029947
+    },
+    {
+      "id": "CW5855",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3616273685971,
+      "longitude": 144.715574250902
+    },
+    {
+      "id": "CW5960",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3522018799908,
+      "longitude": 144.691693773516
+    },
+    {
+      "id": "CW5961",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3522030380694,
+      "longitude": 144.691067790848
+    },
+    {
+      "id": "CW5970",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3634591813979,
+      "longitude": 144.712866906115
+    },
+    {
+      "id": "CW6376",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3571907435017,
+      "longitude": 144.697894482754
+    },
+    {
+      "id": "CW6377",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3580629000674,
+      "longitude": 144.698788228923
+    },
+    {
+      "id": "CW6528",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3610837007589,
+      "longitude": 144.700249007224
+    },
+    {
+      "id": "CW6636",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3649166245791,
+      "longitude": 144.700818973333
+    },
+    {
+      "id": "CW6637",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3650242440756,
+      "longitude": 144.695337266268
+    },
+    {
+      "id": "CW6638",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3636390643209,
+      "longitude": 144.696614324753
+    },
+    {
+      "id": "CW6639",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3621710292067,
+      "longitude": 144.697691740151
+    },
+    {
+      "id": "CW6640",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611660123411,
+      "longitude": 144.6983212036
+    },
+    {
+      "id": "CW6655",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3594114615918,
+      "longitude": 144.712757431871
+    },
+    {
+      "id": "CW6742",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599353018131,
+      "longitude": 144.702130983192
+    },
+    {
+      "id": "CW6819",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554374202661,
+      "longitude": 144.702956095346
+    },
+    {
+      "id": "CW6823",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3595231392146,
+      "longitude": 144.718881792078
+    },
+    {
+      "id": "CW6826",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3692156055759,
+      "longitude": 144.700328016869
+    },
+    {
+      "id": "CW6827",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3697775998704,
+      "longitude": 144.700329545561
+    },
+    {
+      "id": "CW6828",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.370381189366,
+      "longitude": 144.700252413397
+    },
+    {
+      "id": "CW6938",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3685391143051,
+      "longitude": 144.700517805028
+    },
+    {
+      "id": "CW74475",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3630046615327,
+      "longitude": 144.699166238671
+    },
+    {
+      "id": "CW74476",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3626693615175,
+      "longitude": 144.69892069517
+    },
+    {
+      "id": "CW74477",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.361987142855,
+      "longitude": 144.699388550439
+    },
+    {
+      "id": "CW74478",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3614838595477,
+      "longitude": 144.699733695686
+    },
+    {
+      "id": "CW74479",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3610501757829,
+      "longitude": 144.700050789033
+    },
+    {
+      "id": "CW7508",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3535147121447,
+      "longitude": 144.696796592254
+    },
+    {
+      "id": "CW7509",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3521660473213,
+      "longitude": 144.69532683046
+    },
+    {
+      "id": "CW7510",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3550723069036,
+      "longitude": 144.696807399373
+    },
+    {
+      "id": "CW7511",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3531861524031,
+      "longitude": 144.695430846585
+    },
+    {
+      "id": "CW7512",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3540948183215,
+      "longitude": 144.695443805763
+    },
+    {
+      "id": "CW7513",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3548825006907,
+      "longitude": 144.693578020236
+    },
+    {
+      "id": "CW7514",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3545539546809,
+      "longitude": 144.694319474858
+    },
+    {
+      "id": "CW7515",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3536288444612,
+      "longitude": 144.694311426685
+    },
+    {
+      "id": "CW7516",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3528186971535,
+      "longitude": 144.694305679957
+    },
+    {
+      "id": "CW7517",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3521633356478,
+      "longitude": 144.696615923388
+    },
+    {
+      "id": "CW7518",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.352169510581,
+      "longitude": 144.69362134514
+    },
+    {
+      "id": "CW7519",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3514911674182,
+      "longitude": 144.696843651127
+    },
+    {
+      "id": "CW7520",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3608722695004,
+      "longitude": 144.693209859992
+    },
+    {
+      "id": "CW7521",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3600808165379,
+      "longitude": 144.69320831233
+    },
+    {
+      "id": "CW7522",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576513321372,
+      "longitude": 144.692609266159
+    },
+    {
+      "id": "CW7523",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576522513357,
+      "longitude": 144.691609770805
+    },
+    {
+      "id": "CW7524",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576566223362,
+      "longitude": 144.690610229327
+    },
+    {
+      "id": "CW7525",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3571162111397,
+      "longitude": 144.693202863116
+    },
+    {
+      "id": "CW7527",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599619014039,
+      "longitude": 144.69619306834
+    },
+    {
+      "id": "CW75275",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3624097964576,
+      "longitude": 144.698919169558
+    },
+    {
+      "id": "CW7528",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599635090819,
+      "longitude": 144.695193622648
+    },
+    {
+      "id": "CW7529",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599650513543,
+      "longitude": 144.694224366928
+    },
+    {
+      "id": "CW7530",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3580839674022,
+      "longitude": 144.697543125917
+    },
+    {
+      "id": "CW7531",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3609434946669,
+      "longitude": 144.705111590646
+    },
+    {
+      "id": "CW7532",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3602808670224,
+      "longitude": 144.704773824222
+    },
+    {
+      "id": "CW7533",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3635145588765,
+      "longitude": 144.707913039145
+    },
+    {
+      "id": "CW7534",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3641754121835,
+      "longitude": 144.706525521532
+    },
+    {
+      "id": "CW7535",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3619392842104,
+      "longitude": 144.709677765789
+    },
+    {
+      "id": "CW7536",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611323662869,
+      "longitude": 144.709671735458
+    },
+    {
+      "id": "CW7537",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3591975714816,
+      "longitude": 144.705844989211
+    },
+    {
+      "id": "CW7538",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3588921882575,
+      "longitude": 144.706785134308
+    },
+    {
+      "id": "CW7539",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3585931182792,
+      "longitude": 144.707691601069
+    },
+    {
+      "id": "CW7540",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3583675954748,
+      "longitude": 144.708697977133
+    },
+    {
+      "id": "CW7541",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3527535383547,
+      "longitude": 144.709667232464
+    },
+    {
+      "id": "CW7542",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3647886546623,
+      "longitude": 144.711707734424
+    },
+    {
+      "id": "CW7543",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3637951062503,
+      "longitude": 144.711699228142
+    },
+    {
+      "id": "CW7544",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3627631406563,
+      "longitude": 144.712605163584
+    },
+    {
+      "id": "CW7545",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.362767355092,
+      "longitude": 144.710215323207
+    },
+    {
+      "id": "CW7546",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3625155094023,
+      "longitude": 144.711689572459
+    },
+    {
+      "id": "CW7547",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3604414470243,
+      "longitude": 144.713105983735
+    },
+    {
+      "id": "CW7548",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3610422612247,
+      "longitude": 144.712767601242
+    },
+    {
+      "id": "CW7549",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3619135554421,
+      "longitude": 144.712774275057
+    },
+    {
+      "id": "CW7550",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3604528591908,
+      "longitude": 144.710572428492
+    },
+    {
+      "id": "CW7551",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599697573576,
+      "longitude": 144.712763396636
+    },
+    {
+      "id": "CW7552",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3585117376789,
+      "longitude": 144.712271175661
+    },
+    {
+      "id": "CW7553",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3583623881944,
+      "longitude": 144.713590398724
+    },
+    {
+      "id": "CW7554",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3578318635534,
+      "longitude": 144.712747611974
+    },
+    {
+      "id": "CW7555",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3562740014525,
+      "longitude": 144.712216216236
+    },
+    {
+      "id": "CW7556",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3561796390097,
+      "longitude": 144.711345798654
+    },
+    {
+      "id": "CW7557",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3553738719834,
+      "longitude": 144.711335903673
+    },
+    {
+      "id": "CW7560",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3534922663518,
+      "longitude": 144.7113322015
+    },
+    {
+      "id": "CW7561",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3533899174124,
+      "longitude": 144.712694067591
+    },
+    {
+      "id": "CW7562",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.354382096774,
+      "longitude": 144.714068215737
+    },
+    {
+      "id": "CW7563",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3535990435206,
+      "longitude": 144.714081907323
+    },
+    {
+      "id": "CW7565",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3528741429524,
+      "longitude": 144.714073896218
+    },
+    {
+      "id": "CW7566",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3525128754545,
+      "longitude": 144.711322242513
+    },
+    {
+      "id": "CW7567",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3618675980908,
+      "longitude": 144.714445562268
+    },
+    {
+      "id": "CW75675",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3613538994767,
+      "longitude": 144.69964768133
+    },
+    {
+      "id": "CW7568",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3607063451595,
+      "longitude": 144.714435005456
+    },
+    {
+      "id": "CW7569",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3597548573484,
+      "longitude": 144.715559234366
+    },
+    {
+      "id": "CW7570",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3589181401342,
+      "longitude": 144.715558359382
+    },
+    {
+      "id": "CW7571",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3582213023987,
+      "longitude": 144.715555277293
+    },
+    {
+      "id": "CW7572",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3595349407473,
+      "longitude": 144.714432801769
+    },
+    {
+      "id": "CW7573",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.358209816783,
+      "longitude": 144.715042539999
+    },
+    {
+      "id": "CW7574",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3579522713355,
+      "longitude": 144.714410869419
+    },
+    {
+      "id": "CW7575",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3568467484423,
+      "longitude": 144.714401343488
+    },
+    {
+      "id": "CW7576",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3562421544758,
+      "longitude": 144.71480626134
+    },
+    {
+      "id": "CW7577",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554078345787,
+      "longitude": 144.715684534216
+    },
+    {
+      "id": "CW7578",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3543789275337,
+      "longitude": 144.715673317166
+    },
+    {
+      "id": "CW7579",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3543713456315,
+      "longitude": 144.715097924109
+    },
+    {
+      "id": "CW7580",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3608095401989,
+      "longitude": 144.700231881971
+    },
+    {
+      "id": "CW7581",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3616627041304,
+      "longitude": 144.701148417892
+    },
+    {
+      "id": "CW7585",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3604861713122,
+      "longitude": 144.700447580697
+    },
+    {
+      "id": "CW7586",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599130575316,
+      "longitude": 144.700732719773
+    },
+    {
+      "id": "CW7587",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3597083621719,
+      "longitude": 144.699496909502
+    },
+    {
+      "id": "CW7588",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3589362327616,
+      "longitude": 144.69990107304
+    },
+    {
+      "id": "CW7589",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3620583707716,
+      "longitude": 144.702449689031
+    },
+    {
+      "id": "CW7590",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3630025179897,
+      "longitude": 144.701902253396
+    },
+    {
+      "id": "CW7591",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3624794431561,
+      "longitude": 144.702496144845
+    },
+    {
+      "id": "CW7593",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3613954012121,
+      "longitude": 144.701538593019
+    },
+    {
+      "id": "CW7594",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3608968776672,
+      "longitude": 144.70186585208
+    },
+    {
+      "id": "CW7595",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3602392408551,
+      "longitude": 144.702188804895
+    },
+    {
+      "id": "CW7596",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3626051496666,
+      "longitude": 144.691987263033
+    },
+    {
+      "id": "CW7597",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3625983480124,
+      "longitude": 144.692829810642
+    },
+    {
+      "id": "CW7598",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.362048740506,
+      "longitude": 144.693295440555
+    },
+    {
+      "id": "CW7599",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3620499549824,
+      "longitude": 144.692338494042
+    },
+    {
+      "id": "CW7600",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3620682133278,
+      "longitude": 144.691142777519
+    },
+    {
+      "id": "CW7601",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3628959637852,
+      "longitude": 144.69084096157
+    },
+    {
+      "id": "CW7602",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3626258672554,
+      "longitude": 144.690339122445
+    },
+    {
+      "id": "CW7603",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3621536644652,
+      "longitude": 144.690484469639
+    },
+    {
+      "id": "CW7604",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3657038009336,
+      "longitude": 144.694882284295
+    },
+    {
+      "id": "CW7605",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3644475656259,
+      "longitude": 144.702457448971
+    },
+    {
+      "id": "CW7607",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3650456633562,
+      "longitude": 144.702413322254
+    },
+    {
+      "id": "CW7608",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3650146522409,
+      "longitude": 144.703737262311
+    },
+    {
+      "id": "CW7609",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3658144504136,
+      "longitude": 144.69129745981
+    },
+    {
+      "id": "CW7610",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3658162838961,
+      "longitude": 144.690281584564
+    },
+    {
+      "id": "CW7611",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3675537216152,
+      "longitude": 144.693614304797
+    },
+    {
+      "id": "CW7612",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3683428410661,
+      "longitude": 144.69306909349
+    },
+    {
+      "id": "CW7613",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3691186818189,
+      "longitude": 144.69253696823
+    },
+    {
+      "id": "CW7614",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3704048068581,
+      "longitude": 144.690676487555
+    },
+    {
+      "id": "CW7615",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3703961517631,
+      "longitude": 144.691450587613
+    },
+    {
+      "id": "CW7616",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3699473271418,
+      "longitude": 144.694417818622
+    },
+    {
+      "id": "CW7617",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3688785421667,
+      "longitude": 144.695152720332
+    },
+    {
+      "id": "CW7618",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3681976050672,
+      "longitude": 144.695634285192
+    },
+    {
+      "id": "CW7619",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3665986348442,
+      "longitude": 144.696725131627
+    },
+    {
+      "id": "CW7620",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3666851263931,
+      "longitude": 144.702857138727
+    },
+    {
+      "id": "CW7621",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3666863935247,
+      "longitude": 144.701385745252
+    },
+    {
+      "id": "CW7622",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3666370082213,
+      "longitude": 144.700496640234
+    },
+    {
+      "id": "CW7623",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3657027114289,
+      "longitude": 144.703334592865
+    },
+    {
+      "id": "CW7624",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3657079237257,
+      "longitude": 144.702113315491
+    },
+    {
+      "id": "CW7625",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3656963752185,
+      "longitude": 144.700568018338
+    },
+    {
+      "id": "CW7626",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3555444085429,
+      "longitude": 144.69201250373
+    },
+    {
+      "id": "CW7627",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3545103734621,
+      "longitude": 144.692021216871
+    },
+    {
+      "id": "CW7628",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3531475366008,
+      "longitude": 144.692043952227
+    },
+    {
+      "id": "CW7629",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3539225457378,
+      "longitude": 144.692019625035
+    },
+    {
+      "id": "CW7630",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3563775374411,
+      "longitude": 144.692219658751
+    },
+    {
+      "id": "CW7631",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3567980661762,
+      "longitude": 144.693201179637
+    },
+    {
+      "id": "CW7632",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3561955953828,
+      "longitude": 144.693205360759
+    },
+    {
+      "id": "CW7633",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3555844153874,
+      "longitude": 144.693205218933
+    },
+    {
+      "id": "CW7634",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3543030168304,
+      "longitude": 144.693194108351
+    },
+    {
+      "id": "CW7635",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3535401824051,
+      "longitude": 144.693191745927
+    },
+    {
+      "id": "CW7636",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3526978169092,
+      "longitude": 144.693189936887
+    },
+    {
+      "id": "CW7637",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3521932715252,
+      "longitude": 144.692539359642
+    },
+    {
+      "id": "CW7638",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3656435414584,
+      "longitude": 144.712917757274
+    },
+    {
+      "id": "CW7639",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3656403617881,
+      "longitude": 144.71366718894
+    },
+    {
+      "id": "CW7640",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3656436152216,
+      "longitude": 144.711770795547
+    },
+    {
+      "id": "CW7641",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3679241302798,
+      "longitude": 144.71024470497
+    },
+    {
+      "id": "CW7642",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3701134636377,
+      "longitude": 144.710243820583
+    },
+    {
+      "id": "CW7643",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3681659783476,
+      "longitude": 144.71248346216
+    },
+    {
+      "id": "CW7644",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3684771068191,
+      "longitude": 144.710388365316
+    },
+    {
+      "id": "CW7645",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3668906992281,
+      "longitude": 144.71024514499
+    },
+    {
+      "id": "CW7646",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3656555026196,
+      "longitude": 144.710289557057
+    },
+    {
+      "id": "CW7647",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3581402769048,
+      "longitude": 144.716887436718
+    },
+    {
+      "id": "CW7648",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3589754445458,
+      "longitude": 144.718431941706
+    },
+    {
+      "id": "CW7649",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3583770279727,
+      "longitude": 144.718433403669
+    },
+    {
+      "id": "CW7650",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3582295761118,
+      "longitude": 144.71919808768
+    },
+    {
+      "id": "CW7651",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3654940790215,
+      "longitude": 144.718004776837
+    },
+    {
+      "id": "CW7652",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3654900689463,
+      "longitude": 144.720300115753
+    },
+    {
+      "id": "CW7653",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3537486549815,
+      "longitude": 144.702226095673
+    },
+    {
+      "id": "CW7654",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.351222155026,
+      "longitude": 144.70060388581
+    },
+    {
+      "id": "CW7655",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3509318116298,
+      "longitude": 144.701362893977
+    },
+    {
+      "id": "CW7656",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3547796581327,
+      "longitude": 144.700338793686
+    },
+    {
+      "id": "CW7657",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3537431643047,
+      "longitude": 144.700868778236
+    },
+    {
+      "id": "CW7658",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3548035986542,
+      "longitude": 144.698758226164
+    },
+    {
+      "id": "CW7659",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3540894997286,
+      "longitude": 144.699121304136
+    },
+    {
+      "id": "CW7660",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3535047729824,
+      "longitude": 144.699415939204
+    },
+    {
+      "id": "CW7661",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566370147761,
+      "longitude": 144.700732482829
+    },
+    {
+      "id": "CW7662",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3565673165447,
+      "longitude": 144.699430504118
+    },
+    {
+      "id": "CW7663",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3556190476434,
+      "longitude": 144.699888351753
+    },
+    {
+      "id": "CW7664",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3560192119979,
+      "longitude": 144.702675694124
+    },
+    {
+      "id": "CW7666",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3592497742891,
+      "longitude": 144.702620107449
+    },
+    {
+      "id": "CW7667",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3583503714798,
+      "longitude": 144.703052628524
+    },
+    {
+      "id": "CW7668",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3574323666415,
+      "longitude": 144.703489062247
+    },
+    {
+      "id": "CW7669",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566839411022,
+      "longitude": 144.703847057731
+    },
+    {
+      "id": "CW7670",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3559386750473,
+      "longitude": 144.70420818462
+    },
+    {
+      "id": "CW7671",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554549403627,
+      "longitude": 144.704473414021
+    },
+    {
+      "id": "CW7672",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.357125417625,
+      "longitude": 144.704129712146
+    },
+    {
+      "id": "CW7673",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576499684417,
+      "longitude": 144.69612500286
+    },
+    {
+      "id": "CW7674",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576608682047,
+      "longitude": 144.695455731502
+    },
+    {
+      "id": "CW7675",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.357650986568,
+      "longitude": 144.694977800529
+    },
+    {
+      "id": "CW7676",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3576525168685,
+      "longitude": 144.693807750876
+    },
+    {
+      "id": "CW7677",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.359140817458,
+      "longitude": 144.696835696516
+    },
+    {
+      "id": "CW7678",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3582756384758,
+      "longitude": 144.696824483699
+    },
+    {
+      "id": "CW7680",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3567973278362,
+      "longitude": 144.696821783323
+    },
+    {
+      "id": "CW7681",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3560005876135,
+      "longitude": 144.696816263198
+    },
+    {
+      "id": "CW7682",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3567640367831,
+      "longitude": 144.69545817001
+    },
+    {
+      "id": "CW7683",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3566983624976,
+      "longitude": 144.695456563534
+    },
+    {
+      "id": "CW7684",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3559074749308,
+      "longitude": 144.695455865598
+    },
+    {
+      "id": "CW7685",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.356907954557,
+      "longitude": 144.694365655343
+    },
+    {
+      "id": "CW7686",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3560738155287,
+      "longitude": 144.694362300214
+    },
+    {
+      "id": "CW7687",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3554139733076,
+      "longitude": 144.694359373136
+    },
+    {
+      "id": "CW7688",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3550712142494,
+      "longitude": 144.695442532274
+    },
+    {
+      "id": "CW7689",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3601049527777,
+      "longitude": 144.689613522395
+    },
+    {
+      "id": "CW7690",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3593220170453,
+      "longitude": 144.689609608254
+    },
+    {
+      "id": "CW7691",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3584752437299,
+      "longitude": 144.689607715242
+    },
+    {
+      "id": "CW7692",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3577577975142,
+      "longitude": 144.689605184462
+    },
+    {
+      "id": "CW7693",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3568721855137,
+      "longitude": 144.689616306443
+    },
+    {
+      "id": "CW83275",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599679742266,
+      "longitude": 144.69690183104
+    },
+    {
+      "id": "CW83276",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3599796911974,
+      "longitude": 144.696901819937
+    },
+    {
+      "id": "CW83277",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3611483927544,
+      "longitude": 144.696908029714
+    },
+    {
+      "id": "CW8610",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3627542588522,
+      "longitude": 144.713605117648
+    },
+    {
+      "id": "CW8611",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3627514465775,
+      "longitude": 144.714587331192
+    },
+    {
+      "id": "CW8612",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3549195481207,
+      "longitude": 144.697760413506
+    },
+    {
+      "id": "CW8619",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3621834187989,
+      "longitude": 144.702460386894
+    },
+    {
+      "id": "CW8993",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3582315266166,
+      "longitude": 144.720407241347
+    },
+    {
+      "id": "CW9130",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3509656343751,
+      "longitude": 144.697965733512
+    },
+    {
+      "id": "CW9206",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3634230072646,
+      "longitude": 144.70015804066
+    },
+    {
+      "id": "CW9207",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3634273592751,
+      "longitude": 144.700167797309
+    },
+    {
+      "id": "CW9209",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3638980391548,
+      "longitude": 144.701222939945
+    },
+    {
+      "id": "CW9217",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3527883931512,
+      "longitude": 144.715645044618
+    },
+    {
+      "id": "CW9638",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3523409274951,
+      "longitude": 144.714067776773
+    },
+    {
+      "id": "CW9639",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.352333716871,
+      "longitude": 144.714067775986
+    },
+    {
+      "id": "CW9640",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3507876940097,
+      "longitude": 144.715382226297
+    },
+    {
+      "id": "CW9641",
+      "suburb": "Rochester",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.3491537936075,
+      "longitude": 144.715519692508
+    }
+  ]
+}

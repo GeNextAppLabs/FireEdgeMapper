@@ -1,0 +1,836 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW178894",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7372914064875,
+      "longitude": 144.143097456067
+    },
+    {
+      "id": "CW178895",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7369199701122,
+      "longitude": 144.142952856831
+    },
+    {
+      "id": "CW178896",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7378529852953,
+      "longitude": 144.141684537676
+    },
+    {
+      "id": "CW178897",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7372229818797,
+      "longitude": 144.141340701114
+    },
+    {
+      "id": "CW178898",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7374849098891,
+      "longitude": 144.139920926999
+    },
+    {
+      "id": "CW178899",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7379400629434,
+      "longitude": 144.140653665987
+    },
+    {
+      "id": "CW178900",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7382784143991,
+      "longitude": 144.139795262355
+    },
+    {
+      "id": "CW178901",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7389138271222,
+      "longitude": 144.140480391764
+    },
+    {
+      "id": "CW178902",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7386921744116,
+      "longitude": 144.138793654125
+    },
+    {
+      "id": "CW186501",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7381394516129,
+      "longitude": 144.142945840733
+    },
+    {
+      "id": "CW186502",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7388615291472,
+      "longitude": 144.142817357529
+    },
+    {
+      "id": "CW186503",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7389881931514,
+      "longitude": 144.141487975259
+    },
+    {
+      "id": "CW214902",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7395059126337,
+      "longitude": 144.142324921045
+    },
+    {
+      "id": "CW214903",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7399900536687,
+      "longitude": 144.142617473119
+    },
+    {
+      "id": "CW214904",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7398897622566,
+      "longitude": 144.141549937095
+    },
+    {
+      "id": "CW214905",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7393368478512,
+      "longitude": 144.140858066858
+    },
+    {
+      "id": "CW214906",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7397894304794,
+      "longitude": 144.140678990071
+    },
+    {
+      "id": "CW214907",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7396153665322,
+      "longitude": 144.139524366756
+    },
+    {
+      "id": "CW214909",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7391388054399,
+      "longitude": 144.139140020077
+    },
+    {
+      "id": "CW214910",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7395125497001,
+      "longitude": 144.138521551783
+    },
+    {
+      "id": "CW225702",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7416350468065,
+      "longitude": 144.142331169397
+    },
+    {
+      "id": "CW225703",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7415155775055,
+      "longitude": 144.141257335897
+    },
+    {
+      "id": "CW225704",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.740561725604,
+      "longitude": 144.141429007199
+    },
+    {
+      "id": "CW232102",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7339651340266,
+      "longitude": 144.134344494792
+    },
+    {
+      "id": "CW244502",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7404068120271,
+      "longitude": 144.139387314996
+    },
+    {
+      "id": "CW244503",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.74062987448,
+      "longitude": 144.14053185604
+    },
+    {
+      "id": "CW244504",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.741301016098,
+      "longitude": 144.13923076713
+    },
+    {
+      "id": "CW244505",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7413781061014,
+      "longitude": 144.140399865285
+    },
+    {
+      "id": "CW260902",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7403643130937,
+      "longitude": 144.138371958957
+    },
+    {
+      "id": "CW260903",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7413840496372,
+      "longitude": 144.138295643112
+    },
+    {
+      "id": "CW278502",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7416704873289,
+      "longitude": 144.140066743074
+    },
+    {
+      "id": "CW28057",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7378686672286,
+      "longitude": 144.130547257153
+    },
+    {
+      "id": "CW28058",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7379608048142,
+      "longitude": 144.129230538549
+    },
+    {
+      "id": "CW28059",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7362716774713,
+      "longitude": 144.129959078734
+    },
+    {
+      "id": "CW28060",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7370733668758,
+      "longitude": 144.130210768156
+    },
+    {
+      "id": "CW28061",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7362291149472,
+      "longitude": 144.131124595328
+    },
+    {
+      "id": "CW290904",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7427867779782,
+      "longitude": 144.141255679718
+    },
+    {
+      "id": "CW290905",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7425912465165,
+      "longitude": 144.140252154108
+    },
+    {
+      "id": "CW290906",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7428851096076,
+      "longitude": 144.142108797348
+    },
+    {
+      "id": "CW400042",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Standpipe",
+      "latitude": -36.7413128144168,
+      "longitude": 144.130843049206
+    },
+    {
+      "id": "CW41674",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7355379202465,
+      "longitude": 144.127484731448
+    },
+    {
+      "id": "CW41675",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7360034504253,
+      "longitude": 144.127601907758
+    },
+    {
+      "id": "CW41676",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7369819914702,
+      "longitude": 144.12928607309
+    },
+    {
+      "id": "CW41677",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7377065389383,
+      "longitude": 144.128332407836
+    },
+    {
+      "id": "CW41678",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7361697453004,
+      "longitude": 144.128574840321
+    },
+    {
+      "id": "CW5067",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7329275164561,
+      "longitude": 144.130680346656
+    },
+    {
+      "id": "CW5068",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7317677061188,
+      "longitude": 144.133079144862
+    },
+    {
+      "id": "CW5069",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7276309248015,
+      "longitude": 144.136813567294
+    },
+    {
+      "id": "CW5070",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7361582834084,
+      "longitude": 144.134447563203
+    },
+    {
+      "id": "CW5107",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7339571620883,
+      "longitude": 144.135311481598
+    },
+    {
+      "id": "CW5108",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7287849999056,
+      "longitude": 144.136332377617
+    },
+    {
+      "id": "CW5109",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7335156622935,
+      "longitude": 144.143744498397
+    },
+    {
+      "id": "CW5110",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7321458789437,
+      "longitude": 144.143994822951
+    },
+    {
+      "id": "CW5111",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7349484368914,
+      "longitude": 144.143487461118
+    },
+    {
+      "id": "CW5112",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7357516598728,
+      "longitude": 144.141864986579
+    },
+    {
+      "id": "CW5113",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7305956850437,
+      "longitude": 144.131161437466
+    },
+    {
+      "id": "CW5114",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7301337123364,
+      "longitude": 144.135084904479
+    },
+    {
+      "id": "CW5115",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7324225959827,
+      "longitude": 144.134044039784
+    },
+    {
+      "id": "CW5164",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7311743470508,
+      "longitude": 144.134603209879
+    },
+    {
+      "id": "CW5165",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7335272059781,
+      "longitude": 144.130199883604
+    },
+    {
+      "id": "CW5166",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7358943861399,
+      "longitude": 144.133158727379
+    },
+    {
+      "id": "CW5167",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7334389478145,
+      "longitude": 144.13229895701
+    },
+    {
+      "id": "CW5168",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7460204455465,
+      "longitude": 144.140772483331
+    },
+    {
+      "id": "CW5169",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7390940693117,
+      "longitude": 144.13113875047
+    },
+    {
+      "id": "CW5170",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7393217877836,
+      "longitude": 144.131039216336
+    },
+    {
+      "id": "CW5171",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7371847612873,
+      "longitude": 144.131972387842
+    },
+    {
+      "id": "CW54874",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7367248385334,
+      "longitude": 144.128365388223
+    },
+    {
+      "id": "CW54875",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.736292422488,
+      "longitude": 144.127480937969
+    },
+    {
+      "id": "CW5927",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7313244905626,
+      "longitude": 144.133734954521
+    },
+    {
+      "id": "CW6568",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7318355513443,
+      "longitude": 144.137681982226
+    },
+    {
+      "id": "CW6569",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7313959203042,
+      "longitude": 144.136438116008
+    },
+    {
+      "id": "CW6570",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7319809041689,
+      "longitude": 144.136017681398
+    },
+    {
+      "id": "CW6571",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7322844740184,
+      "longitude": 144.136044451541
+    },
+    {
+      "id": "CW6732",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7346993456731,
+      "longitude": 144.13687882321
+    },
+    {
+      "id": "CW6733",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7346906466564,
+      "longitude": 144.131745088537
+    },
+    {
+      "id": "CW6935",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7288138810979,
+      "longitude": 144.132546416099
+    },
+    {
+      "id": "CW69675",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7362545335395,
+      "longitude": 144.126886546965
+    },
+    {
+      "id": "CW69676",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7368370239448,
+      "longitude": 144.126599364833
+    },
+    {
+      "id": "CW69677",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7375044830233,
+      "longitude": 144.127430320854
+    },
+    {
+      "id": "CW6973",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7299004467425,
+      "longitude": 144.133590496467
+    },
+    {
+      "id": "CW7048",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7299181431524,
+      "longitude": 144.131775803135
+    },
+    {
+      "id": "CW7049",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7295252195405,
+      "longitude": 144.131744796927
+    },
+    {
+      "id": "CW76075",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7301730151706,
+      "longitude": 144.13347062944
+    },
+    {
+      "id": "CW80875",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7364035100782,
+      "longitude": 144.125990675774
+    },
+    {
+      "id": "CW80876",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7373017015018,
+      "longitude": 144.125886212387
+    },
+    {
+      "id": "CW80877",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7355371879921,
+      "longitude": 144.126214654046
+    },
+    {
+      "id": "CW80878",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7370915464408,
+      "longitude": 144.125150102618
+    },
+    {
+      "id": "CW8605",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7338779184589,
+      "longitude": 144.133742055163
+    },
+    {
+      "id": "CW8749",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.728224355844,
+      "longitude": 144.131465568876
+    },
+    {
+      "id": "CW8750",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7284563157123,
+      "longitude": 144.132910715672
+    },
+    {
+      "id": "CW8751",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7287540122828,
+      "longitude": 144.131253729044
+    },
+    {
+      "id": "CW8776",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.73636772962,
+      "longitude": 144.142463060982
+    },
+    {
+      "id": "CW8780",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7293735236987,
+      "longitude": 144.133210803501
+    },
+    {
+      "id": "CW89681",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7372120282856,
+      "longitude": 144.125040023097
+    },
+    {
+      "id": "CW89682",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7358775300109,
+      "longitude": 144.1250794935
+    },
+    {
+      "id": "CW89683",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7346705855261,
+      "longitude": 144.125304400965
+    },
+    {
+      "id": "CW9105",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.735843247408,
+      "longitude": 144.135026913725
+    },
+    {
+      "id": "CW9115",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7327991677689,
+      "longitude": 144.136182733245
+    },
+    {
+      "id": "CW9116",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7334147524203,
+      "longitude": 144.136626275664
+    },
+    {
+      "id": "CW9161",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7413910775808,
+      "longitude": 144.130788794872
+    },
+    {
+      "id": "CW9237",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7333207601488,
+      "longitude": 144.137473676753
+    },
+    {
+      "id": "CW9238",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7331723937046,
+      "longitude": 144.137966795516
+    },
+    {
+      "id": "CW9239",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7341995026959,
+      "longitude": 144.1372607802
+    },
+    {
+      "id": "CW92879",
+      "suburb": "Marong",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7351081683937,
+      "longitude": 144.125725239222
+    }
+  ]
+}

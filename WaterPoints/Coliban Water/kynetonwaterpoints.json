@@ -1,0 +1,3444 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW112084",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2376933077165,
+      "longitude": 144.460960585215
+    },
+    {
+      "id": "CW112085",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2376367865425,
+      "longitude": 144.459907342808
+    },
+    {
+      "id": "CW112086",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2384552509514,
+      "longitude": 144.459761513476
+    },
+    {
+      "id": "CW127689",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2540699420426,
+      "longitude": 144.463682649394
+    },
+    {
+      "id": "CW134089",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2320593346569,
+      "longitude": 144.452600162794
+    },
+    {
+      "id": "CW137689",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2289721285452,
+      "longitude": 144.473611873142
+    },
+    {
+      "id": "CW137690",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2274291979963,
+      "longitude": 144.472906958757
+    },
+    {
+      "id": "CW137691",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2261392490525,
+      "longitude": 144.472941420039
+    },
+    {
+      "id": "CW153291",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2558780166398,
+      "longitude": 144.460306915721
+    },
+    {
+      "id": "CW153292",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2553969075254,
+      "longitude": 144.461515802524
+    },
+    {
+      "id": "CW153691",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2557942026905,
+      "longitude": 144.459805394161
+    },
+    {
+      "id": "CW153692",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2550597801438,
+      "longitude": 144.460368392038
+    },
+    {
+      "id": "CW154891",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.257685567751,
+      "longitude": 144.436026994179
+    },
+    {
+      "id": "CW1574",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2525751823485,
+      "longitude": 144.447581077616
+    },
+    {
+      "id": "CW1575",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2518835073984,
+      "longitude": 144.448831566351
+    },
+    {
+      "id": "CW1576",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2519614843144,
+      "longitude": 144.449478231439
+    },
+    {
+      "id": "CW1577",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2528132613043,
+      "longitude": 144.447543087344
+    },
+    {
+      "id": "CW1578",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.252122636448,
+      "longitude": 144.450271329134
+    },
+    {
+      "id": "CW1579",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.252253162072,
+      "longitude": 144.45137696744
+    },
+    {
+      "id": "CW1580",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2522919142046,
+      "longitude": 144.452578154468
+    },
+    {
+      "id": "CW1581",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2533675439395,
+      "longitude": 144.452386442389
+    },
+    {
+      "id": "CW1582",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2516270276022,
+      "longitude": 144.447758429281
+    },
+    {
+      "id": "CW1583",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2506735737648,
+      "longitude": 144.447996378389
+    },
+    {
+      "id": "CW1584",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2506297949917,
+      "longitude": 144.447971296497
+    },
+    {
+      "id": "CW1585",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2486358066579,
+      "longitude": 144.448319348731
+    },
+    {
+      "id": "CW1586",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2503861523113,
+      "longitude": 144.450543427332
+    },
+    {
+      "id": "CW1587",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2496819251405,
+      "longitude": 144.448163158472
+    },
+    {
+      "id": "CW1588",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2501096946984,
+      "longitude": 144.451848005683
+    },
+    {
+      "id": "CW1589",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2499990691397,
+      "longitude": 144.450902885483
+    },
+    {
+      "id": "CW1590",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2498743075759,
+      "longitude": 144.449830725059
+    },
+    {
+      "id": "CW1591",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.249773134144,
+      "longitude": 144.448957360266
+    },
+    {
+      "id": "CW1593",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.250781456351,
+      "longitude": 144.448911833682
+    },
+    {
+      "id": "CW1594",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2511097959616,
+      "longitude": 144.451692655472
+    },
+    {
+      "id": "CW1595",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2511917345544,
+      "longitude": 144.452796164567
+    },
+    {
+      "id": "CW1596",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.250086226593,
+      "longitude": 144.453000695228
+    },
+    {
+      "id": "CW1597",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2484698380453,
+      "longitude": 144.448409145093
+    },
+    {
+      "id": "CW1598",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2487933029275,
+      "longitude": 144.450906273585
+    },
+    {
+      "id": "CW1599",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2473856218475,
+      "longitude": 144.448557584423
+    },
+    {
+      "id": "CW1600",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2475253658729,
+      "longitude": 144.448583520041
+    },
+    {
+      "id": "CW1601",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2477831679533,
+      "longitude": 144.450779867419
+    },
+    {
+      "id": "CW1602",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2481070155741,
+      "longitude": 144.450767135984
+    },
+    {
+      "id": "CW1603",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2486497034755,
+      "longitude": 144.452800006008
+    },
+    {
+      "id": "CW1604",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.24904821175,
+      "longitude": 144.453194175642
+    },
+    {
+      "id": "CW1605",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2479496354099,
+      "longitude": 144.453402607776
+    },
+    {
+      "id": "CW1607",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2451736238066,
+      "longitude": 144.44896681364
+    },
+    {
+      "id": "CW1608",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2450565524927,
+      "longitude": 144.451344394672
+    },
+    {
+      "id": "CW1609",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2455167011885,
+      "longitude": 144.451437508643
+    },
+    {
+      "id": "CW1610",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2456693842006,
+      "longitude": 144.452716926821
+    },
+    {
+      "id": "CW1611",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2468434908984,
+      "longitude": 144.453604862392
+    },
+    {
+      "id": "CW1612",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2463628819962,
+      "longitude": 144.453695769427
+    },
+    {
+      "id": "CW1613",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2457573950812,
+      "longitude": 144.453810391779
+    },
+    {
+      "id": "CW1614",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2437105120644,
+      "longitude": 144.449899270551
+    },
+    {
+      "id": "CW1615",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2435717396905,
+      "longitude": 144.454234925002
+    },
+    {
+      "id": "CW1616",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2443726366964,
+      "longitude": 144.450286249586
+    },
+    {
+      "id": "CW1675",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2498778723228,
+      "longitude": 144.441680365027
+    },
+    {
+      "id": "CW1676",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2490492907602,
+      "longitude": 144.442000160115
+    },
+    {
+      "id": "CW1677",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2497820133707,
+      "longitude": 144.442650386744
+    },
+    {
+      "id": "CW1678",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2490583258937,
+      "longitude": 144.442958992235
+    },
+    {
+      "id": "CW1679",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.248905574154,
+      "longitude": 144.442821995891
+    },
+    {
+      "id": "CW1680",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2480160904486,
+      "longitude": 144.442980480486
+    },
+    {
+      "id": "CW1681",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2467837708666,
+      "longitude": 144.442603643934
+    },
+    {
+      "id": "CW1682",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2467437931093,
+      "longitude": 144.443234519207
+    },
+    {
+      "id": "CW1683",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2434565606615,
+      "longitude": 144.443865067286
+    },
+    {
+      "id": "CW1684",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2427711141346,
+      "longitude": 144.441893128489
+    },
+    {
+      "id": "CW1685",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2433528249747,
+      "longitude": 144.442587782659
+    },
+    {
+      "id": "CW1686",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2424073056928,
+      "longitude": 144.444063539145
+    },
+    {
+      "id": "CW1687",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2412329089034,
+      "longitude": 144.443074873881
+    },
+    {
+      "id": "CW1688",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.239257123406,
+      "longitude": 144.44466026057
+    },
+    {
+      "id": "CW1689",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2391213945226,
+      "longitude": 144.441821556804
+    },
+    {
+      "id": "CW1690",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2495354960601,
+      "longitude": 144.446922814517
+    },
+    {
+      "id": "CW1691",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2501131511691,
+      "longitude": 144.445488922126
+    },
+    {
+      "id": "CW1692",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2505818246616,
+      "longitude": 144.446214372636
+    },
+    {
+      "id": "CW1693",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2506261416504,
+      "longitude": 144.446595529257
+    },
+    {
+      "id": "CW1694",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2481357383356,
+      "longitude": 144.445787891391
+    },
+    {
+      "id": "CW1695",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2468703136091,
+      "longitude": 144.444289001075
+    },
+    {
+      "id": "CW1697",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2453243397267,
+      "longitude": 144.44484608314
+    },
+    {
+      "id": "CW1698",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2470609438533,
+      "longitude": 144.445978952461
+    },
+    {
+      "id": "CW1699",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2459852417225,
+      "longitude": 144.446193957843
+    },
+    {
+      "id": "CW1700",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2472516283503,
+      "longitude": 144.447218831012
+    },
+    {
+      "id": "CW1701",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2426715564425,
+      "longitude": 144.445040595365
+    },
+    {
+      "id": "CW1702",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2430201710495,
+      "longitude": 144.447999539749
+    },
+    {
+      "id": "CW1703",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2447619338685,
+      "longitude": 144.445313637832
+    },
+    {
+      "id": "CW1704",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2447031209013,
+      "longitude": 144.444796348439
+    },
+    {
+      "id": "CW1705",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2442128854681,
+      "longitude": 144.444106036067
+    },
+    {
+      "id": "CW1706",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2438503123064,
+      "longitude": 144.446690956137
+    },
+    {
+      "id": "CW1707",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.243993621671,
+      "longitude": 144.447915711512
+    },
+    {
+      "id": "CW1708",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.243163857465,
+      "longitude": 144.44917553186
+    },
+    {
+      "id": "CW1709",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2450464845143,
+      "longitude": 144.447692829034
+    },
+    {
+      "id": "CW1710",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2436977719314,
+      "longitude": 144.445405693551
+    },
+    {
+      "id": "CW1711",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2448762797932,
+      "longitude": 144.446395312546
+    },
+    {
+      "id": "CW1712",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2428916339129,
+      "longitude": 144.446766061455
+    },
+    {
+      "id": "CW171295",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2558183271318,
+      "longitude": 144.459188409526
+    },
+    {
+      "id": "CW171296",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.254803810951,
+      "longitude": 144.459503501314
+    },
+    {
+      "id": "CW1713",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2417756218771,
+      "longitude": 144.448037775481
+    },
+    {
+      "id": "CW1714",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2418420173353,
+      "longitude": 144.446950120602
+    },
+    {
+      "id": "CW1716",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2414708798801,
+      "longitude": 144.445559837812
+    },
+    {
+      "id": "CW1717",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2532939202972,
+      "longitude": 144.45163823275
+    },
+    {
+      "id": "CW1718",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2532034364719,
+      "longitude": 144.450889014818
+    },
+    {
+      "id": "CW1719",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2530035408925,
+      "longitude": 144.4499935856
+    },
+    {
+      "id": "CW1720",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.251874704794,
+      "longitude": 144.447715877493
+    },
+    {
+      "id": "CW1721",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2437293895776,
+      "longitude": 144.454366461727
+    },
+    {
+      "id": "CW1722",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2424511888711,
+      "longitude": 144.454388852115
+    },
+    {
+      "id": "CW1723",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2432806034768,
+      "longitude": 144.450233066485
+    },
+    {
+      "id": "CW1724",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.244506069007,
+      "longitude": 144.452271481825
+    },
+    {
+      "id": "CW1725",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2446063344885,
+      "longitude": 144.453121003571
+    },
+    {
+      "id": "CW1726",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2444035981857,
+      "longitude": 144.451403110835
+    },
+    {
+      "id": "CW1727",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2434651491772,
+      "longitude": 144.451645699363
+    },
+    {
+      "id": "CW1728",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2423707369294,
+      "longitude": 144.451854489461
+    },
+    {
+      "id": "CW172894",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2543560045122,
+      "longitude": 144.459590000663
+    },
+    {
+      "id": "CW1729",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2435608127826,
+      "longitude": 144.452775653984
+    },
+    {
+      "id": "CW1730",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2420730741278,
+      "longitude": 144.450556209155
+    },
+    {
+      "id": "CW1731",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2403471017841,
+      "longitude": 144.452264884649
+    },
+    {
+      "id": "CW1732",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2412866348799,
+      "longitude": 144.452095996452
+    },
+    {
+      "id": "CW1733",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2392533155888,
+      "longitude": 144.452480655517
+    },
+    {
+      "id": "CW1734",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2370971682945,
+      "longitude": 144.452851223265
+    },
+    {
+      "id": "CW1735",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2337301084253,
+      "longitude": 144.452838886817
+    },
+    {
+      "id": "CW1736",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2580925916247,
+      "longitude": 144.454400918536
+    },
+    {
+      "id": "CW1737",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2585955823199,
+      "longitude": 144.453597926567
+    },
+    {
+      "id": "CW1738",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.259557983755,
+      "longitude": 144.454021468227
+    },
+    {
+      "id": "CW1739",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2585089122486,
+      "longitude": 144.453036219253
+    },
+    {
+      "id": "CW1740",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2565868476171,
+      "longitude": 144.453409306199
+    },
+    {
+      "id": "CW1741",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2565540168792,
+      "longitude": 144.453699431813
+    },
+    {
+      "id": "CW1742",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2574488804101,
+      "longitude": 144.453758830569
+    },
+    {
+      "id": "CW1743",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2532397462862,
+      "longitude": 144.456900289566
+    },
+    {
+      "id": "CW1744",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2534292870837,
+      "longitude": 144.457165245573
+    },
+    {
+      "id": "CW1745",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2527278680646,
+      "longitude": 144.452626597971
+    },
+    {
+      "id": "CW1746",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2517467273369,
+      "longitude": 144.452818424547
+    },
+    {
+      "id": "CW1747",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2531350350454,
+      "longitude": 144.455616470817
+    },
+    {
+      "id": "CW1748",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2528471459689,
+      "longitude": 144.453242009012
+    },
+    {
+      "id": "CW1749",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2529772384863,
+      "longitude": 144.454314973995
+    },
+    {
+      "id": "CW1750",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2506387805262,
+      "longitude": 144.454132424339
+    },
+    {
+      "id": "CW1751",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2507846244331,
+      "longitude": 144.455303796525
+    },
+    {
+      "id": "CW1752",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2508295471087,
+      "longitude": 144.456250174563
+    },
+    {
+      "id": "CW1753",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2503228449944,
+      "longitude": 144.455671968672
+    },
+    {
+      "id": "CW1754",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2485330310403,
+      "longitude": 144.453515642828
+    },
+    {
+      "id": "CW1755",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2486334920796,
+      "longitude": 144.454406057489
+    },
+    {
+      "id": "CW1756",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2488476471207,
+      "longitude": 144.45630747441
+    },
+    {
+      "id": "CW1757",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.247304743095,
+      "longitude": 144.458294144399
+    },
+    {
+      "id": "CW1758",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2470980892498,
+      "longitude": 144.456467684163
+    },
+    {
+      "id": "CW1759",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2469443572129,
+      "longitude": 144.455109124095
+    },
+    {
+      "id": "CW1760",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2454613312865,
+      "longitude": 144.458648511476
+    },
+    {
+      "id": "CW1761",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2452674888823,
+      "longitude": 144.45688829422
+    },
+    {
+      "id": "CW1762",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2450999659403,
+      "longitude": 144.455409481275
+    },
+    {
+      "id": "CW1763",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2464933916717,
+      "longitude": 144.458538554083
+    },
+    {
+      "id": "CW1764",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2461242483268,
+      "longitude": 144.456872910862
+    },
+    {
+      "id": "CW1765",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2547634406078,
+      "longitude": 144.461601850146
+    },
+    {
+      "id": "CW1766",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2516310990499,
+      "longitude": 144.459373148639
+    },
+    {
+      "id": "CW1767",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2514241553535,
+      "longitude": 144.4576373515
+    },
+    {
+      "id": "CW1768",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2466936333246,
+      "longitude": 144.461574222278
+    },
+    {
+      "id": "CW1769",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2464879897065,
+      "longitude": 144.459957028899
+    },
+    {
+      "id": "CW1770",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2465819987148,
+      "longitude": 144.460960190694
+    },
+    {
+      "id": "CW1771",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2457129680788,
+      "longitude": 144.461117723996
+    },
+    {
+      "id": "CW1772",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2450666004077,
+      "longitude": 144.461156521723
+    },
+    {
+      "id": "CW1773",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2443254795111,
+      "longitude": 144.461200573075
+    },
+    {
+      "id": "CW1774",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2441299156319,
+      "longitude": 144.461656298455
+    },
+    {
+      "id": "CW1775",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2453954037896,
+      "longitude": 144.459836000523
+    },
+    {
+      "id": "CW1776",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2455141109824,
+      "longitude": 144.460955753836
+    },
+    {
+      "id": "CW1777",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2443213479242,
+      "longitude": 144.460112248599
+    },
+    {
+      "id": "CW1778",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2431916703616,
+      "longitude": 144.459115571414
+    },
+    {
+      "id": "CW1779",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2435416497794,
+      "longitude": 144.46257898846
+    },
+    {
+      "id": "CW1780",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2432268241946,
+      "longitude": 144.45979766548
+    },
+    {
+      "id": "CW1781",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.242447086715,
+      "longitude": 144.458096119396
+    },
+    {
+      "id": "CW1782",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2376547598477,
+      "longitude": 144.460957415552
+    },
+    {
+      "id": "CW1784",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2564365058356,
+      "longitude": 144.466611811476
+    },
+    {
+      "id": "CW1785",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2550876476456,
+      "longitude": 144.464216245703
+    },
+    {
+      "id": "CW1786",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2546263009471,
+      "longitude": 144.463146939503
+    },
+    {
+      "id": "CW1787",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2570770484886,
+      "longitude": 144.451964483767
+    },
+    {
+      "id": "CW1788",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2580894498597,
+      "longitude": 144.451779015744
+    },
+    {
+      "id": "CW1789",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2577071347831,
+      "longitude": 144.452856903843
+    },
+    {
+      "id": "CW1790",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2565036354944,
+      "longitude": 144.45188820671
+    },
+    {
+      "id": "CW1791",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2574732455667,
+      "longitude": 144.448061450086
+    },
+    {
+      "id": "CW1792",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2580764247307,
+      "longitude": 144.449237675276
+    },
+    {
+      "id": "CW1793",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2544385808058,
+      "longitude": 144.456758830426
+    },
+    {
+      "id": "CW1794",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2539893943216,
+      "longitude": 144.453913477951
+    },
+    {
+      "id": "CW1795",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2540818605198,
+      "longitude": 144.454879331102
+    },
+    {
+      "id": "CW1796",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2531953472593,
+      "longitude": 144.455046438152
+    },
+    {
+      "id": "CW1797",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2523389395236,
+      "longitude": 144.456327901888
+    },
+    {
+      "id": "CW1798",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2505596549975,
+      "longitude": 144.453031746513
+    },
+    {
+      "id": "CW1799",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2492559340299,
+      "longitude": 144.453284374745
+    },
+    {
+      "id": "CW1800",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2505041015413,
+      "longitude": 144.454617935767
+    },
+    {
+      "id": "CW1801",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2502912304379,
+      "longitude": 144.456695576924
+    },
+    {
+      "id": "CW1802",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2494009347312,
+      "longitude": 144.456852058361
+    },
+    {
+      "id": "CW1803",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2500256061387,
+      "longitude": 144.45377666255
+    },
+    {
+      "id": "CW1804",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2490854464147,
+      "longitude": 144.454159840261
+    },
+    {
+      "id": "CW1805",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.249350177276,
+      "longitude": 144.453897017037
+    },
+    {
+      "id": "CW1806",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2481891549333,
+      "longitude": 144.45804192992
+    },
+    {
+      "id": "CW1807",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2479947462239,
+      "longitude": 144.456327099305
+    },
+    {
+      "id": "CW1808",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2476955144022,
+      "longitude": 144.453688145433
+    },
+    {
+      "id": "CW1809",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2478382597863,
+      "longitude": 144.454946983953
+    },
+    {
+      "id": "CW1810",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2459572190285,
+      "longitude": 144.455411627075
+    },
+    {
+      "id": "CW1811",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2428882888771,
+      "longitude": 144.45663735614
+    },
+    {
+      "id": "CW1812",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2420615768198,
+      "longitude": 144.455830734699
+    },
+    {
+      "id": "CW1813",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2403555002783,
+      "longitude": 144.45478731215
+    },
+    {
+      "id": "CW1814",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2386725972182,
+      "longitude": 144.455100254372
+    },
+    {
+      "id": "CW1815",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2529980208621,
+      "longitude": 144.460428422318
+    },
+    {
+      "id": "CW1816",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2523391358388,
+      "longitude": 144.459240514228
+    },
+    {
+      "id": "CW1817",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2537262245524,
+      "longitude": 144.461741268767
+    },
+    {
+      "id": "CW1822",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2547555565042,
+      "longitude": 144.463379035288
+    },
+    {
+      "id": "CW1823",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2548494898638,
+      "longitude": 144.465746223604
+    },
+    {
+      "id": "CW1824",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2532519977347,
+      "longitude": 144.463428271916
+    },
+    {
+      "id": "CW1825",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2526795712366,
+      "longitude": 144.46353857581
+    },
+    {
+      "id": "CW1826",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2530325108068,
+      "longitude": 144.464699899326
+    },
+    {
+      "id": "CW1827",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2533060692995,
+      "longitude": 144.466029355892
+    },
+    {
+      "id": "CW1828",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2540410555916,
+      "longitude": 144.46589150247
+    },
+    {
+      "id": "CW1829",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2527475853829,
+      "longitude": 144.462138309719
+    },
+    {
+      "id": "CW1830",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2521383702145,
+      "longitude": 144.463695978817
+    },
+    {
+      "id": "CW1831",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.252302827989,
+      "longitude": 144.465046118899
+    },
+    {
+      "id": "CW1832",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2510049415805,
+      "longitude": 144.463861856532
+    },
+    {
+      "id": "CW1833",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2516181497362,
+      "longitude": 144.463744982147
+    },
+    {
+      "id": "CW1834",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2498298921151,
+      "longitude": 144.464525868796
+    },
+    {
+      "id": "CW1835",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2511309798827,
+      "longitude": 144.465065574629
+    },
+    {
+      "id": "CW1836",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2504994706487,
+      "longitude": 144.465363499352
+    },
+    {
+      "id": "CW1837",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2499884414811,
+      "longitude": 144.465471004063
+    },
+    {
+      "id": "CW1838",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2512775796502,
+      "longitude": 144.462417079936
+    },
+    {
+      "id": "CW1839",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2489525915823,
+      "longitude": 144.462859798861
+    },
+    {
+      "id": "CW1840",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2477586436731,
+      "longitude": 144.463095142728
+    },
+    {
+      "id": "CW1841",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.246154214586,
+      "longitude": 144.464767460327
+    },
+    {
+      "id": "CW1842",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2462792460735,
+      "longitude": 144.465803447706
+    },
+    {
+      "id": "CW1843",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2473076955535,
+      "longitude": 144.464303341579
+    },
+    {
+      "id": "CW1844",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2474612368742,
+      "longitude": 144.465689474942
+    },
+    {
+      "id": "CW1845",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2475311382821,
+      "longitude": 144.466695674923
+    },
+    {
+      "id": "CW1846",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2454800848461,
+      "longitude": 144.463351446617
+    },
+    {
+      "id": "CW1847",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2448869321737,
+      "longitude": 144.463635877651
+    },
+    {
+      "id": "CW1848",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2445246550266,
+      "longitude": 144.465492092082
+    },
+    {
+      "id": "CW1849",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2442532079003,
+      "longitude": 144.462730545951
+    },
+    {
+      "id": "CW1850",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2449089540974,
+      "longitude": 144.462324693611
+    },
+    {
+      "id": "CW1851",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2379124212879,
+      "longitude": 144.463336777882
+    },
+    {
+      "id": "CW1852",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2381745870873,
+      "longitude": 144.464739216591
+    },
+    {
+      "id": "CW1853",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2604481211926,
+      "longitude": 144.466369033404
+    },
+    {
+      "id": "CW1854",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2613391385794,
+      "longitude": 144.468792920634
+    },
+    {
+      "id": "CW1855",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2604362648554,
+      "longitude": 144.467657293471
+    },
+    {
+      "id": "CW1856",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2594723442482,
+      "longitude": 144.467841022917
+    },
+    {
+      "id": "CW1857",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2588963896242,
+      "longitude": 144.468254523438
+    },
+    {
+      "id": "CW1858",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2569588868384,
+      "longitude": 144.467557416618
+    },
+    {
+      "id": "CW1860",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2581190279264,
+      "longitude": 144.468951780979
+    },
+    {
+      "id": "CW1861",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2586776686464,
+      "longitude": 144.469512498929
+    },
+    {
+      "id": "CW1862",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2542604090033,
+      "longitude": 144.467100748308
+    },
+    {
+      "id": "CW1863",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2546891827223,
+      "longitude": 144.467723823491
+    },
+    {
+      "id": "CW1864",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2551135242682,
+      "longitude": 144.468855558815
+    },
+    {
+      "id": "CW1865",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2551412457676,
+      "longitude": 144.466601933605
+    },
+    {
+      "id": "CW1866",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.255665461832,
+      "longitude": 144.467993332169
+    },
+    {
+      "id": "CW1867",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2559474661001,
+      "longitude": 144.468752431054
+    },
+    {
+      "id": "CW1868",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2556048177908,
+      "longitude": 144.469063878226
+    },
+    {
+      "id": "CW1869",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2533477368446,
+      "longitude": 144.467223810518
+    },
+    {
+      "id": "CW186901",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2492285940075,
+      "longitude": 144.464328462285
+    },
+    {
+      "id": "CW1870",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2524136748745,
+      "longitude": 144.467716349529
+    },
+    {
+      "id": "CW1871",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2522698820614,
+      "longitude": 144.467144013592
+    },
+    {
+      "id": "CW1872",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2524485845289,
+      "longitude": 144.466345113146
+    },
+    {
+      "id": "CW1873",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2514164905433,
+      "longitude": 144.46654142176
+    },
+    {
+      "id": "CW1874",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2504931551691,
+      "longitude": 144.466765386129
+    },
+    {
+      "id": "CW1875",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2510088062263,
+      "longitude": 144.468673582577
+    },
+    {
+      "id": "CW1876",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2477470575708,
+      "longitude": 144.46758570359
+    },
+    {
+      "id": "CW1877",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.247267641319,
+      "longitude": 144.469533028723
+    },
+    {
+      "id": "CW1878",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2467072591073,
+      "longitude": 144.468892548943
+    },
+    {
+      "id": "CW1879",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.24672999505,
+      "longitude": 144.467993580239
+    },
+    {
+      "id": "CW1880",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2447862254222,
+      "longitude": 144.467745329687
+    },
+    {
+      "id": "CW1881",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2446637511144,
+      "longitude": 144.466673495296
+    },
+    {
+      "id": "CW1882",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2315621289936,
+      "longitude": 144.466113748975
+    },
+    {
+      "id": "CW1883",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2276780134373,
+      "longitude": 144.467091697498
+    },
+    {
+      "id": "CW1884",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2634644510511,
+      "longitude": 144.448761662994
+    },
+    {
+      "id": "CW1885",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2627494832256,
+      "longitude": 144.448206131169
+    },
+    {
+      "id": "CW1886",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2617847753173,
+      "longitude": 144.449320963094
+    },
+    {
+      "id": "CW1887",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.261808311061,
+      "longitude": 144.448181982577
+    },
+    {
+      "id": "CW1888",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2604038146975,
+      "longitude": 144.448424412714
+    },
+    {
+      "id": "CW216502",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2573815757035,
+      "longitude": 144.456692072049
+    },
+    {
+      "id": "CW216503",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2575970116598,
+      "longitude": 144.457655866279
+    },
+    {
+      "id": "CW216504",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2572230724401,
+      "longitude": 144.459057477131
+    },
+    {
+      "id": "CW216505",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2579031425489,
+      "longitude": 144.460083570328
+    },
+    {
+      "id": "CW216506",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2577974844306,
+      "longitude": 144.460040073039
+    },
+    {
+      "id": "CW235702",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2600024001393,
+      "longitude": 144.459956494688
+    },
+    {
+      "id": "CW235703",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2600790013389,
+      "longitude": 144.460571234606
+    },
+    {
+      "id": "CW235704",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2597619018223,
+      "longitude": 144.460626353672
+    },
+    {
+      "id": "CW235705",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2592622387019,
+      "longitude": 144.45969252631
+    },
+    {
+      "id": "CW235706",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2603551023017,
+      "longitude": 144.459239385467
+    },
+    {
+      "id": "CW235707",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2606913806915,
+      "longitude": 144.459368214549
+    },
+    {
+      "id": "CW235708",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2616045431925,
+      "longitude": 144.458909701632
+    },
+    {
+      "id": "CW235709",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2616630601971,
+      "longitude": 144.458984177256
+    },
+    {
+      "id": "CW235710",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2623127985481,
+      "longitude": 144.458857399672
+    },
+    {
+      "id": "CW245705",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2386171601669,
+      "longitude": 144.452583862642
+    },
+    {
+      "id": "CW254102",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2377544124718,
+      "longitude": 144.461764931739
+    },
+    {
+      "id": "CW257703",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2515134141471,
+      "longitude": 144.446080053089
+    },
+    {
+      "id": "CW26457",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.220417998441,
+      "longitude": 144.474638066162
+    },
+    {
+      "id": "CW26467",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2492333641409,
+      "longitude": 144.470235435251
+    },
+    {
+      "id": "CW26468",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2484672107966,
+      "longitude": 144.470388965996
+    },
+    {
+      "id": "CW273302",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2605073033661,
+      "longitude": 144.470843766979
+    },
+    {
+      "id": "CW276502",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2689824371722,
+      "longitude": 144.444581045316
+    },
+    {
+      "id": "CW276503",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.267665717411,
+      "longitude": 144.44481231776
+    },
+    {
+      "id": "CW276505",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2678957500214,
+      "longitude": 144.442935442804
+    },
+    {
+      "id": "CW277702",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2671613517067,
+      "longitude": 144.440888299652
+    },
+    {
+      "id": "CW284502",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2617198297706,
+      "longitude": 144.471265271385
+    },
+    {
+      "id": "CW400044",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Standpipe",
+      "latitude": -37.2528031160979,
+      "longitude": 144.38272389369
+    },
+    {
+      "id": "CW400046",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Standpipe",
+      "latitude": -37.2366676916989,
+      "longitude": 144.454782250402
+    },
+    {
+      "id": "CW5506",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2543684259085,
+      "longitude": 144.460701888488
+    },
+    {
+      "id": "CW5521",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.230347125574,
+      "longitude": 144.45517428427
+    },
+    {
+      "id": "CW5522",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2297152809357,
+      "longitude": 144.455739319921
+    },
+    {
+      "id": "CW5523",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.229073565421,
+      "longitude": 144.456313152614
+    },
+    {
+      "id": "CW5524",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2283454450999,
+      "longitude": 144.456964259371
+    },
+    {
+      "id": "CW5550",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.259432134537,
+      "longitude": 144.470278676005
+    },
+    {
+      "id": "CW5554",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2492977996888,
+      "longitude": 144.444972323652
+    },
+    {
+      "id": "CW5609",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2473248495014,
+      "longitude": 144.460214006433
+    },
+    {
+      "id": "CW5610",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2476175781914,
+      "longitude": 144.464755818568
+    },
+    {
+      "id": "CW5623",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2528480615274,
+      "longitude": 144.468835325633
+    },
+    {
+      "id": "CW5624",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2530472492657,
+      "longitude": 144.47011691347
+    },
+    {
+      "id": "CW5625",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2524725131645,
+      "longitude": 144.468689336807
+    },
+    {
+      "id": "CW5675",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2493392567136,
+      "longitude": 144.46648763221
+    },
+    {
+      "id": "CW5676",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2489272124777,
+      "longitude": 144.46526417159
+    },
+    {
+      "id": "CW5677",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2399422144141,
+      "longitude": 144.443876541719
+    },
+    {
+      "id": "CW56876",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2457979148552,
+      "longitude": 144.444686868404
+    },
+    {
+      "id": "CW56877",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2459878947352,
+      "longitude": 144.446308542217
+    },
+    {
+      "id": "CW56878",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.245977227171,
+      "longitude": 144.446195479705
+    },
+    {
+      "id": "CW56879",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2461407397389,
+      "longitude": 144.447568246939
+    },
+    {
+      "id": "CW56880",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2463858583373,
+      "longitude": 144.449653166621
+    },
+    {
+      "id": "CW56881",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2463874799812,
+      "longitude": 144.449666526154
+    },
+    {
+      "id": "CW56882",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.246658655488,
+      "longitude": 144.451970136788
+    },
+    {
+      "id": "CW56883",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2468279244465,
+      "longitude": 144.453412491046
+    },
+    {
+      "id": "CW5985",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2422962627136,
+      "longitude": 144.441790101013
+    },
+    {
+      "id": "CW5986",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2424143941957,
+      "longitude": 144.44280945357
+    },
+    {
+      "id": "CW5987",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2425390475285,
+      "longitude": 144.443963851481
+    },
+    {
+      "id": "CW60876",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2580517168354,
+      "longitude": 144.456626628403
+    },
+    {
+      "id": "CW6098",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2545763992541,
+      "longitude": 144.452134790544
+    },
+    {
+      "id": "CW6159",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2503573047489,
+      "longitude": 144.468397556609
+    },
+    {
+      "id": "CW6166",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2214822119133,
+      "longitude": 144.468957487447
+    },
+    {
+      "id": "CW6167",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2217502492518,
+      "longitude": 144.471241110955
+    },
+    {
+      "id": "CW61674",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2591285628886,
+      "longitude": 144.457079007051
+    },
+    {
+      "id": "CW6168",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2221594996845,
+      "longitude": 144.472432241256
+    },
+    {
+      "id": "CW6179",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2202563854947,
+      "longitude": 144.468480083575
+    },
+    {
+      "id": "CW6180",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2205841487375,
+      "longitude": 144.471470065362
+    },
+    {
+      "id": "CW6181",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2234886405068,
+      "longitude": 144.473944029817
+    },
+    {
+      "id": "CW6182",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2220197686967,
+      "longitude": 144.474289171225
+    },
+    {
+      "id": "CW6183",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2241800766293,
+      "longitude": 144.473999061331
+    },
+    {
+      "id": "CW6217",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2300589140049,
+      "longitude": 144.474561114199
+    },
+    {
+      "id": "CW6218",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2569848677278,
+      "longitude": 144.461548482081
+    },
+    {
+      "id": "CW6219",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2580492957928,
+      "longitude": 144.462010091627
+    },
+    {
+      "id": "CW6220",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2590000704511,
+      "longitude": 144.464185613205
+    },
+    {
+      "id": "CW6221",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.258056515868,
+      "longitude": 144.463755584121
+    },
+    {
+      "id": "CW6222",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2571694195428,
+      "longitude": 144.464709820797
+    },
+    {
+      "id": "CW6223",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.256482319162,
+      "longitude": 144.463931563607
+    },
+    {
+      "id": "CW6224",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2559813606748,
+      "longitude": 144.463645234974
+    },
+    {
+      "id": "CW6240",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2298090994662,
+      "longitude": 144.391485277175
+    },
+    {
+      "id": "CW6273",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2370333665971,
+      "longitude": 144.457678064747
+    },
+    {
+      "id": "CW6313",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2525182918558,
+      "longitude": 144.384034140289
+    },
+    {
+      "id": "CW6383",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2569199230006,
+      "longitude": 144.454469954186
+    },
+    {
+      "id": "CW6384",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.258219325743,
+      "longitude": 144.455763200569
+    },
+    {
+      "id": "CW6385",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2597233512327,
+      "longitude": 144.457274915856
+    },
+    {
+      "id": "CW6386",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2599460576963,
+      "longitude": 144.457293446135
+    },
+    {
+      "id": "CW6387",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2601130902503,
+      "longitude": 144.458293018781
+    },
+    {
+      "id": "CW6388",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2598464430251,
+      "longitude": 144.458704934518
+    },
+    {
+      "id": "CW6389",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2582253208421,
+      "longitude": 144.458566529556
+    },
+    {
+      "id": "CW6390",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2578726400483,
+      "longitude": 144.458633618202
+    },
+    {
+      "id": "CW6392",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2211176442534,
+      "longitude": 144.476274205797
+    },
+    {
+      "id": "CW6399",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2538781094169,
+      "longitude": 144.463149541124
+    },
+    {
+      "id": "CW6400",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2543579206789,
+      "longitude": 144.46443036577
+    },
+    {
+      "id": "CW6401",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2501044545363,
+      "longitude": 144.463890208771
+    },
+    {
+      "id": "CW6475",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2409390453043,
+      "longitude": 144.455855763965
+    },
+    {
+      "id": "CW6476",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2405711765857,
+      "longitude": 144.457206154103
+    },
+    {
+      "id": "CW6477",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.240462542057,
+      "longitude": 144.449642115021
+    },
+    {
+      "id": "CW6550",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2570394417297,
+      "longitude": 144.455266263739
+    },
+    {
+      "id": "CW6551",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2568327705018,
+      "longitude": 144.45572521858
+    },
+    {
+      "id": "CW6552",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2589179964937,
+      "longitude": 144.456049369664
+    },
+    {
+      "id": "CW6553",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2595028600475,
+      "longitude": 144.456325967945
+    },
+    {
+      "id": "CW6643",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2717364863675,
+      "longitude": 144.448098566621
+    },
+    {
+      "id": "CW6644",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2714498127629,
+      "longitude": 144.445684679614
+    },
+    {
+      "id": "CW6645",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2709615785295,
+      "longitude": 144.441332774595
+    },
+    {
+      "id": "CW6646",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.269929395842,
+      "longitude": 144.440387778087
+    },
+    {
+      "id": "CW6647",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2684096704634,
+      "longitude": 144.44066353979
+    },
+    {
+      "id": "CW6660",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.247412943799,
+      "longitude": 144.448572568289
+    },
+    {
+      "id": "CW6665",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2414804166234,
+      "longitude": 144.453183424029
+    },
+    {
+      "id": "CW6684",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2863705311045,
+      "longitude": 144.446467178614
+    },
+    {
+      "id": "CW6718",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2441129592985,
+      "longitude": 144.448935755915
+    },
+    {
+      "id": "CW6719",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2442094446266,
+      "longitude": 144.44975511877
+    },
+    {
+      "id": "CW6765",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2692789848047,
+      "longitude": 144.442987897826
+    },
+    {
+      "id": "CW6766",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2711699932531,
+      "longitude": 144.443552291988
+    },
+    {
+      "id": "CW6771",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.270341577486,
+      "longitude": 144.443701739352
+    },
+    {
+      "id": "CW6772",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2696878118751,
+      "longitude": 144.445730733058
+    },
+    {
+      "id": "CW6773",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2696588914198,
+      "longitude": 144.444194216751
+    },
+    {
+      "id": "CW6781",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2336930696631,
+      "longitude": 144.452523994388
+    },
+    {
+      "id": "CW6924",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2406678503623,
+      "longitude": 144.448164565464
+    },
+    {
+      "id": "CW6928",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.243996957297,
+      "longitude": 144.451994474212
+    },
+    {
+      "id": "CW6932",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2415802225228,
+      "longitude": 144.458241901279
+    },
+    {
+      "id": "CW6936",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.251986278604,
+      "longitude": 144.462356319986
+    },
+    {
+      "id": "CW6982",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2538421156094,
+      "longitude": 144.468439928585
+    },
+    {
+      "id": "CW6992",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2546086474226,
+      "longitude": 144.461797617874
+    },
+    {
+      "id": "CW7082",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2239223142195,
+      "longitude": 144.470429595105
+    },
+    {
+      "id": "CW72875",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2572787647016,
+      "longitude": 144.468596367192
+    },
+    {
+      "id": "CW78075",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2573076800047,
+      "longitude": 144.468186396225
+    },
+    {
+      "id": "CW7970",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2478414395219,
+      "longitude": 144.452218562025
+    },
+    {
+      "id": "CW7971",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2477077165019,
+      "longitude": 144.451050677335
+    },
+    {
+      "id": "CW7972",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2453188277278,
+      "longitude": 144.45003382072
+    },
+    {
+      "id": "CW7982",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2483129898339,
+      "longitude": 144.447097996058
+    },
+    {
+      "id": "CW7985",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2497817896554,
+      "longitude": 144.454702097329
+    },
+    {
+      "id": "CW7986",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2430347312995,
+      "longitude": 144.457870545026
+    },
+    {
+      "id": "CW8028",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2546340769185,
+      "longitude": 144.461792931117
+    },
+    {
+      "id": "CW8029",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2516181243826,
+      "longitude": 144.468009458365
+    },
+    {
+      "id": "CW8030",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.241085190687,
+      "longitude": 144.434959668882
+    },
+    {
+      "id": "CW8031",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2346138957658,
+      "longitude": 144.453702190883
+    },
+    {
+      "id": "CW8032",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2330465858965,
+      "longitude": 144.453992042862
+    },
+    {
+      "id": "CW8033",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2312804070778,
+      "longitude": 144.454532954468
+    },
+    {
+      "id": "CW8034",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2378838692844,
+      "longitude": 144.421624552026
+    },
+    {
+      "id": "CW8035",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2374384388892,
+      "longitude": 144.419946810675
+    },
+    {
+      "id": "CW8036",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2374707421412,
+      "longitude": 144.419176696624
+    },
+    {
+      "id": "CW8037",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2376072320616,
+      "longitude": 144.418643697798
+    },
+    {
+      "id": "CW8630",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2337550691309,
+      "longitude": 144.451441104288
+    },
+    {
+      "id": "CW8631",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2333898679045,
+      "longitude": 144.4500540356
+    },
+    {
+      "id": "CW8772",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2198623528721,
+      "longitude": 144.471602430968
+    },
+    {
+      "id": "CW8778",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2491230550041,
+      "longitude": 144.467972504807
+    },
+    {
+      "id": "CW8779",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2493859310236,
+      "longitude": 144.469094131213
+    },
+    {
+      "id": "CW8788",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -37.2688206643113,
+      "longitude": 144.421661669774
+    },
+    {
+      "id": "CW8789",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -37.2588364167773,
+      "longitude": 144.404716202623
+    },
+    {
+      "id": "CW8827",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.218697359943,
+      "longitude": 144.468766260452
+    },
+    {
+      "id": "CW8832",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2540400351822,
+      "longitude": 144.468773799499
+    },
+    {
+      "id": "CW88878",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2485726073182,
+      "longitude": 144.46718269632
+    },
+    {
+      "id": "CW8900",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.236845355556,
+      "longitude": 144.447722242584
+    },
+    {
+      "id": "CW8970",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2481640762811,
+      "longitude": 144.468143876785
+    },
+    {
+      "id": "CW8971",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2484294846342,
+      "longitude": 144.469681946367
+    },
+    {
+      "id": "CW90878",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2484588099021,
+      "longitude": 144.466200295409
+    },
+    {
+      "id": "CW9173",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2418852566752,
+      "longitude": 144.449378269874
+    },
+    {
+      "id": "CW9174",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2418959833049,
+      "longitude": 144.449376307581
+    },
+    {
+      "id": "CW9175",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2409647251208,
+      "longitude": 144.44954467054
+    },
+    {
+      "id": "CW9176",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2407245375538,
+      "longitude": 144.447161520807
+    },
+    {
+      "id": "CW9177",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2405466292078,
+      "longitude": 144.44719617714
+    },
+    {
+      "id": "CW9178",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2405332860122,
+      "longitude": 144.447198825391
+    },
+    {
+      "id": "CW9179",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2386677194438,
+      "longitude": 144.447545512204
+    },
+    {
+      "id": "CW9190",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2373540725808,
+      "longitude": 144.447782839777
+    },
+    {
+      "id": "CW9614",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2511769981714,
+      "longitude": 144.469782512215
+    },
+    {
+      "id": "CW9615",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2505478041745,
+      "longitude": 144.470994976511
+    },
+    {
+      "id": "CW9616",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.250179281528,
+      "longitude": 144.470849557336
+    },
+    {
+      "id": "CW98878",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.237237288864,
+      "longitude": 144.459562605183
+    },
+    {
+      "id": "CW98879",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2373582701259,
+      "longitude": 144.460680786364
+    },
+    {
+      "id": "CW98880",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2372465346843,
+      "longitude": 144.462089864343
+    },
+    {
+      "id": "CW98881",
+      "suburb": "Kyneton",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.2368118752628,
+      "longitude": 144.462165973928
+    }
+  ]
+}

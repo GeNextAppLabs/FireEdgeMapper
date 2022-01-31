@@ -1,0 +1,188 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1232",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4079028246255,
+      "longitude": 143.973002873054
+    },
+    {
+      "id": "CW7001",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4096891630433,
+      "longitude": 143.977668751355
+    },
+    {
+      "id": "CW7718",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.407538164729,
+      "longitude": 143.97164392743
+    },
+    {
+      "id": "CW7719",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4088947872884,
+      "longitude": 143.971646468001
+    },
+    {
+      "id": "CW7720",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4095404724834,
+      "longitude": 143.969812420135
+    },
+    {
+      "id": "CW7721",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4095623895222,
+      "longitude": 143.971704950746
+    },
+    {
+      "id": "CW7722",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4095680332668,
+      "longitude": 143.973010823876
+    },
+    {
+      "id": "CW7723",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4121262816166,
+      "longitude": 143.974793876048
+    },
+    {
+      "id": "CW7724",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4135555996775,
+      "longitude": 143.974056532251
+    },
+    {
+      "id": "CW7725",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4107403211784,
+      "longitude": 143.974304648716
+    },
+    {
+      "id": "CW7726",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4092802219218,
+      "longitude": 143.974801571601
+    },
+    {
+      "id": "CW7727",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4095952261024,
+      "longitude": 143.974312026095
+    },
+    {
+      "id": "CW7728",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.407928240527,
+      "longitude": 143.974812230246
+    },
+    {
+      "id": "CW7729",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4077995559608,
+      "longitude": 143.97433924517
+    },
+    {
+      "id": "CW7730",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4061648900582,
+      "longitude": 143.971461442248
+    },
+    {
+      "id": "CW7731",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4063640737996,
+      "longitude": 143.97262795981
+    },
+    {
+      "id": "CW7732",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4054135554344,
+      "longitude": 143.972838088145
+    },
+    {
+      "id": "CW7733",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4064402113407,
+      "longitude": 143.974344900143
+    },
+    {
+      "id": "CW7734",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4048203705076,
+      "longitude": 143.974360941038
+    },
+    {
+      "id": "CW7735",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4032230764098,
+      "longitude": 143.974376984604
+    },
+    {
+      "id": "CW9365",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4095349037944,
+      "longitude": 143.969339854288
+    },
+    {
+      "id": "CW9366",
+      "suburb": "Serpentine",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.4078958312976,
+      "longitude": 143.968882842923
+    },
+    {
+      "id": "CW400038",
+      "suburb": "Serpentine",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -36.4095804983336,
+      "longitude": 143.973487615839
+    }
+  ]
+}

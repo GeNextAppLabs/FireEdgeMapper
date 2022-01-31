@@ -1,0 +1,164 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW50074",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6015105181475,
+      "longitude": 144.199437013585
+    },
+    {
+      "id": "CW50075",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5989478055271,
+      "longitude": 144.199435919052
+    },
+    {
+      "id": "CW50076",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5968164732968,
+      "longitude": 144.19943441642
+    },
+    {
+      "id": "CW50077",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5946662244202,
+      "longitude": 144.199434443503
+    },
+    {
+      "id": "CW50078",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5946752272793,
+      "longitude": 144.199434442012
+    },
+    {
+      "id": "CW7704",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6036997116134,
+      "longitude": 144.18314535835
+    },
+    {
+      "id": "CW7705",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6046123432294,
+      "longitude": 144.188643955042
+    },
+    {
+      "id": "CW7706",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6037258329222,
+      "longitude": 144.188183489256
+    },
+    {
+      "id": "CW7707",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5945118212061,
+      "longitude": 144.182537069844
+    },
+    {
+      "id": "CW7708",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.594536548891,
+      "longitude": 144.185806524079
+    },
+    {
+      "id": "CW7709",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5909969526721,
+      "longitude": 144.189477801985
+    },
+    {
+      "id": "CW7710",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.594498317122,
+      "longitude": 144.189256089299
+    },
+    {
+      "id": "CW7711",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5944993600511,
+      "longitude": 144.190200052057
+    },
+    {
+      "id": "CW7712",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5944936452749,
+      "longitude": 144.196998875921
+    },
+    {
+      "id": "CW7713",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.603705516119,
+      "longitude": 144.19346775028
+    },
+    {
+      "id": "CW7714",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.603941051968,
+      "longitude": 144.199633905685
+    },
+    {
+      "id": "CW7715",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6018362810315,
+      "longitude": 144.221277509464
+    },
+    {
+      "id": "CW7716",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5944605357998,
+      "longitude": 144.220833947864
+    },
+    {
+      "id": "CW7717",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5945013779944,
+      "longitude": 144.201023742586
+    },
+    {
+      "id": "CW8793",
+      "suburb": "Sebastian",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5945028115181,
+      "longitude": 144.186394789802
+    }
+  ]
+}

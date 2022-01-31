@@ -1,0 +1,260 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW173294",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3239609567079,
+      "longitude": 144.408226880925
+    },
+    {
+      "id": "CW2068",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3251625311004,
+      "longitude": 144.408072010336
+    },
+    {
+      "id": "CW2069",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3255531079351,
+      "longitude": 144.409295413135
+    },
+    {
+      "id": "CW232903",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3251107261261,
+      "longitude": 144.411910577823
+    },
+    {
+      "id": "CW261702",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3272015227483,
+      "longitude": 144.414308603001
+    },
+    {
+      "id": "CW262902",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3268420474061,
+      "longitude": 144.410058957763
+    },
+    {
+      "id": "CW28457",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3265309653841,
+      "longitude": 144.414914681676
+    },
+    {
+      "id": "CW285302",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3292279769226,
+      "longitude": 144.416316953296
+    },
+    {
+      "id": "CW5500",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3315948532249,
+      "longitude": 144.39618247102
+    },
+    {
+      "id": "CW6683",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.322791669883,
+      "longitude": 144.439957916086
+    },
+    {
+      "id": "CW6961",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -37.3325560832566,
+      "longitude": 144.418754310423
+    },
+    {
+      "id": "CW6962",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -37.3465209229727,
+      "longitude": 144.408953824352
+    },
+    {
+      "id": "CW7965",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3212492565585,
+      "longitude": 144.407050713151
+    },
+    {
+      "id": "CW8454",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.325753135106,
+      "longitude": 144.410669494322
+    },
+    {
+      "id": "CW8455",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3262475137934,
+      "longitude": 144.41219749879
+    },
+    {
+      "id": "CW8456",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3269952977279,
+      "longitude": 144.410528892365
+    },
+    {
+      "id": "CW8457",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.327627130051,
+      "longitude": 144.412529583398
+    },
+    {
+      "id": "CW8459",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3280702767974,
+      "longitude": 144.41390530391
+    },
+    {
+      "id": "CW8460",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3286578201641,
+      "longitude": 144.415719432352
+    },
+    {
+      "id": "CW8461",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3322449256683,
+      "longitude": 144.419749306454
+    },
+    {
+      "id": "CW8462",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3310866980121,
+      "longitude": 144.396954750248
+    },
+    {
+      "id": "CW8463",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3299948289439,
+      "longitude": 144.398567302459
+    },
+    {
+      "id": "CW8464",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3288918892494,
+      "longitude": 144.400374962775
+    },
+    {
+      "id": "CW8465",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3286363894054,
+      "longitude": 144.399740231164
+    },
+    {
+      "id": "CW8466",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3281971615458,
+      "longitude": 144.401926451706
+    },
+    {
+      "id": "CW8467",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3274329618075,
+      "longitude": 144.403683142683
+    },
+    {
+      "id": "CW8468",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3264453424201,
+      "longitude": 144.40900462217
+    },
+    {
+      "id": "CW8469",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3259176775401,
+      "longitude": 144.407190076856
+    },
+    {
+      "id": "CW8470",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3258286352114,
+      "longitude": 144.405971033089
+    },
+    {
+      "id": "CW8471",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3252920858841,
+      "longitude": 144.406928421737
+    },
+    {
+      "id": "CW8472",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3235130863209,
+      "longitude": 144.40725882514
+    },
+    {
+      "id": "CW8473",
+      "suburb": "Tylden",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3227037653043,
+      "longitude": 144.407404699252
+    }
+  ]
+}

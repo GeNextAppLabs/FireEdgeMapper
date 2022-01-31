@@ -1,0 +1,372 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1087",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2697997891617,
+      "longitude": 144.538795260141
+    },
+    {
+      "id": "CW1088",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2688978111936,
+      "longitude": 144.538793954472
+    },
+    {
+      "id": "CW1089",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2687102631528,
+      "longitude": 144.536820812278
+    },
+    {
+      "id": "CW1090",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2678069440354,
+      "longitude": 144.536456587214
+    },
+    {
+      "id": "CW1091",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2679798714295,
+      "longitude": 144.537792668669
+    },
+    {
+      "id": "CW1092",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2666389570068,
+      "longitude": 144.537789066966
+    },
+    {
+      "id": "CW1093",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.269727641327,
+      "longitude": 144.537646151336
+    },
+    {
+      "id": "CW1094",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2697425251295,
+      "longitude": 144.536465749112
+    },
+    {
+      "id": "CW1095",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2690771995978,
+      "longitude": 144.534012683443
+    },
+    {
+      "id": "CW1096",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2678550879405,
+      "longitude": 144.534200051922
+    },
+    {
+      "id": "CW1098",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2702687224806,
+      "longitude": 144.53383108994
+    },
+    {
+      "id": "CW1099",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2711633652225,
+      "longitude": 144.532581322441
+    },
+    {
+      "id": "CW1100",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2711609810734,
+      "longitude": 144.531327480718
+    },
+    {
+      "id": "CW1102",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.270725346869,
+      "longitude": 144.537206519516
+    },
+    {
+      "id": "CW1103",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2707263709809,
+      "longitude": 144.537979852921
+    },
+    {
+      "id": "CW1104",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.269293788756,
+      "longitude": 144.532725881467
+    },
+    {
+      "id": "CW1105",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2687067320309,
+      "longitude": 144.537904076751
+    },
+    {
+      "id": "CW1106",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2744509915739,
+      "longitude": 144.53585913169
+    },
+    {
+      "id": "CW1107",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2744277459024,
+      "longitude": 144.539169823983
+    },
+    {
+      "id": "CW1108",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2744277577785,
+      "longitude": 144.540063596525
+    },
+    {
+      "id": "CW1109",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2741311160455,
+      "longitude": 144.538295209117
+    },
+    {
+      "id": "CW1110",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.273667304676,
+      "longitude": 144.536845758422
+    },
+    {
+      "id": "CW1111",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2733521097622,
+      "longitude": 144.5358574982
+    },
+    {
+      "id": "CW1112",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2733354916193,
+      "longitude": 144.538593652353
+    },
+    {
+      "id": "CW1113",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2731719538637,
+      "longitude": 144.5375764587
+    },
+    {
+      "id": "CW1116",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2722171995338,
+      "longitude": 144.535857018912
+    },
+    {
+      "id": "CW1119",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2720087580686,
+      "longitude": 144.533766541506
+    },
+    {
+      "id": "CW1121",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2717974040102,
+      "longitude": 144.53174759288
+    },
+    {
+      "id": "CW1123",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2712658711419,
+      "longitude": 144.533872751782
+    },
+    {
+      "id": "CW1124",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2712755144277,
+      "longitude": 144.535681880694
+    },
+    {
+      "id": "CW1125",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2712756609385,
+      "longitude": 144.536480368419
+    },
+    {
+      "id": "CW1126",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.271276217668,
+      "longitude": 144.537418887638
+    },
+    {
+      "id": "CW1127",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2712617260665,
+      "longitude": 144.540234775721
+    },
+    {
+      "id": "CW117688",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2743669748335,
+      "longitude": 144.537950264689
+    },
+    {
+      "id": "CW117689",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2746887947327,
+      "longitude": 144.536668658731
+    },
+    {
+      "id": "CW171294",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2692929856592,
+      "longitude": 144.531579048115
+    },
+    {
+      "id": "CW266502",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2713001828158,
+      "longitude": 144.53020952197
+    },
+    {
+      "id": "CW56874",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2711526462375,
+      "longitude": 144.532500429564
+    },
+    {
+      "id": "CW56875",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.269899830285,
+      "longitude": 144.532494804785
+    },
+    {
+      "id": "CW8850",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2722606585693,
+      "longitude": 144.537257191886
+    },
+    {
+      "id": "CW8851",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2724048392598,
+      "longitude": 144.537654823855
+    },
+    {
+      "id": "CW8852",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2722603911331,
+      "longitude": 144.538489887941
+    },
+    {
+      "id": "CW8853",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2722687452613,
+      "longitude": 144.539575455621
+    },
+    {
+      "id": "CW8854",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2722687655177,
+      "longitude": 144.540218841123
+    },
+    {
+      "id": "CW8855",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2733348630735,
+      "longitude": 144.540050306928
+    },
+    {
+      "id": "CW8856",
+      "suburb": "Lockington",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.2731728016744,
+      "longitude": 144.539794654984
+    }
+  ]
+}

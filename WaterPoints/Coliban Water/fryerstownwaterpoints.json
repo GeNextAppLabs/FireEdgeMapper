@@ -1,0 +1,212 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW181294",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1392521835921,
+      "longitude": 144.247377652631
+    },
+    {
+      "id": "CW1903",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1374813053359,
+      "longitude": 144.25015319735
+    },
+    {
+      "id": "CW198101",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1092226267254,
+      "longitude": 144.253515676601
+    },
+    {
+      "id": "CW262502",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1336334410446,
+      "longitude": 144.260382664029
+    },
+    {
+      "id": "CW262504",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1337791529381,
+      "longitude": 144.258947938525
+    },
+    {
+      "id": "CW8093",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1430137698981,
+      "longitude": 144.246819173465
+    },
+    {
+      "id": "CW8094",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1361584662007,
+      "longitude": 144.255388914733
+    },
+    {
+      "id": "CW8095",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1336301322623,
+      "longitude": 144.253328946521
+    },
+    {
+      "id": "CW8096",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1375581536007,
+      "longitude": 144.248364723446
+    },
+    {
+      "id": "CW8097",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1380143363596,
+      "longitude": 144.257853328105
+    },
+    {
+      "id": "CW8098",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1403475472386,
+      "longitude": 144.252840915637
+    },
+    {
+      "id": "CW8099",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.141614144447,
+      "longitude": 144.252186807245
+    },
+    {
+      "id": "CW8100",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1437839986279,
+      "longitude": 144.249754576573
+    },
+    {
+      "id": "CW8101",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1421450579922,
+      "longitude": 144.249079926925
+    },
+    {
+      "id": "CW8102",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1410895215908,
+      "longitude": 144.249899195223
+    },
+    {
+      "id": "CW8103",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1395668402073,
+      "longitude": 144.248179154769
+    },
+    {
+      "id": "CW8104",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.139611578731,
+      "longitude": 144.249802749267
+    },
+    {
+      "id": "CW8105",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1388924755721,
+      "longitude": 144.249328743336
+    },
+    {
+      "id": "CW8106",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1380110958994,
+      "longitude": 144.252066024419
+    },
+    {
+      "id": "CW8107",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1272829550153,
+      "longitude": 144.254427918418
+    },
+    {
+      "id": "CW8108",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1286252264935,
+      "longitude": 144.253576795005
+    },
+    {
+      "id": "CW8109",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.135804803092,
+      "longitude": 144.251623690271
+    },
+    {
+      "id": "CW8110",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1097557202425,
+      "longitude": 144.253461069848
+    },
+    {
+      "id": "CW85678",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1482036265733,
+      "longitude": 144.237328282416
+    },
+    {
+      "id": "CW8791",
+      "suburb": "Fryerstown",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1406734679726,
+      "longitude": 144.231640038246
+    },
+    {
+      "id": "CW400012",
+      "suburb": "Fryerstown",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -37.1422087731648,
+      "longitude": 144.248671609449
+    }
+  ]
+}

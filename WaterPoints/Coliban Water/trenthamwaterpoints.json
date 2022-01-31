@@ -1,0 +1,1188 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW113684",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3852162620054,
+      "longitude": 144.335624243012
+    },
+    {
+      "id": "CW116085",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3848477962543,
+      "longitude": 144.334892340955
+    },
+    {
+      "id": "CW131689",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3927213810405,
+      "longitude": 144.332153363593
+    },
+    {
+      "id": "CW176494",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3905319007321,
+      "longitude": 144.303618400429
+    },
+    {
+      "id": "CW176495",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.391396180425,
+      "longitude": 144.30173570755
+    },
+    {
+      "id": "CW176496",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3911611960279,
+      "longitude": 144.304985049754
+    },
+    {
+      "id": "CW176497",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3907854923866,
+      "longitude": 144.303092385109
+    },
+    {
+      "id": "CW177294",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.391024574312,
+      "longitude": 144.302532847081
+    },
+    {
+      "id": "CW177295",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3912461682641,
+      "longitude": 144.303429840336
+    },
+    {
+      "id": "CW180494",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3903751543531,
+      "longitude": 144.304412023979
+    },
+    {
+      "id": "CW180495",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3916829472338,
+      "longitude": 144.304504788037
+    },
+    {
+      "id": "CW193701",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3899672255167,
+      "longitude": 144.337696629048
+    },
+    {
+      "id": "CW193702",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3890323056711,
+      "longitude": 144.337872147866
+    },
+    {
+      "id": "CW193703",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3885699833029,
+      "longitude": 144.337958165088
+    },
+    {
+      "id": "CW195702",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3913700863142,
+      "longitude": 144.337475732924
+    },
+    {
+      "id": "CW200501",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3826380855519,
+      "longitude": 144.315358197619
+    },
+    {
+      "id": "CW2065",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3862268898014,
+      "longitude": 144.319393360717
+    },
+    {
+      "id": "CW2066",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3858848200371,
+      "longitude": 144.317165561483
+    },
+    {
+      "id": "CW2071",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3855769520828,
+      "longitude": 144.31456503505
+    },
+    {
+      "id": "CW2073",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3899348860832,
+      "longitude": 144.33037055231
+    },
+    {
+      "id": "CW212102",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3882125913429,
+      "longitude": 144.318938015996
+    },
+    {
+      "id": "CW212103",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3885671296201,
+      "longitude": 144.320538729834
+    },
+    {
+      "id": "CW212104",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3887423886361,
+      "longitude": 144.321634595927
+    },
+    {
+      "id": "CW247702",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3831747315556,
+      "longitude": 144.317414512953
+    },
+    {
+      "id": "CW247703",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3831653241958,
+      "longitude": 144.317397062427
+    },
+    {
+      "id": "CW251702",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3917353527986,
+      "longitude": 144.301010502611
+    },
+    {
+      "id": "CW251703",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3922585441876,
+      "longitude": 144.299924316398
+    },
+    {
+      "id": "CW257302",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3977139024181,
+      "longitude": 144.337075558375
+    },
+    {
+      "id": "CW264902",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3835967233968,
+      "longitude": 144.318773891863
+    },
+    {
+      "id": "CW264903",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.383340473896,
+      "longitude": 144.319767516672
+    },
+    {
+      "id": "CW264904",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3828496628413,
+      "longitude": 144.318906039783
+    },
+    {
+      "id": "CW264905",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3832941044868,
+      "longitude": 144.317629730013
+    },
+    {
+      "id": "CW295702",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3893814545852,
+      "longitude": 144.322383263545
+    },
+    {
+      "id": "CW300102",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3924210154838,
+      "longitude": 144.299576898215
+    },
+    {
+      "id": "CW37659",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3941800098846,
+      "longitude": 144.321447945169
+    },
+    {
+      "id": "CW37660",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3940824039286,
+      "longitude": 144.320332089896
+    },
+    {
+      "id": "CW54074",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3844405257113,
+      "longitude": 144.333473950055
+    },
+    {
+      "id": "CW54076",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3850049797211,
+      "longitude": 144.333441908739
+    },
+    {
+      "id": "CW5507",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3921303427719,
+      "longitude": 144.329998149378
+    },
+    {
+      "id": "CW5953",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3904736237446,
+      "longitude": 144.316136665579
+    },
+    {
+      "id": "CW5992",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3863358752549,
+      "longitude": 144.320959932177
+    },
+    {
+      "id": "CW5993",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3875543697447,
+      "longitude": 144.320707370242
+    },
+    {
+      "id": "CW6274",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.389600307088,
+      "longitude": 144.327598613846
+    },
+    {
+      "id": "CW6275",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3897594473456,
+      "longitude": 144.329002826029
+    },
+    {
+      "id": "CW6350",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3870317563715,
+      "longitude": 144.333327752091
+    },
+    {
+      "id": "CW6351",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3862745762568,
+      "longitude": 144.334839217919
+    },
+    {
+      "id": "CW6352",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3869006606876,
+      "longitude": 144.336443119937
+    },
+    {
+      "id": "CW6506",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3903596247133,
+      "longitude": 144.31416364496
+    },
+    {
+      "id": "CW6507",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3908732107859,
+      "longitude": 144.31511218071
+    },
+    {
+      "id": "CW6508",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.390165804562,
+      "longitude": 144.315849211735
+    },
+    {
+      "id": "CW6529",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3918803324443,
+      "longitude": 144.325916178852
+    },
+    {
+      "id": "CW65675",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3915570005365,
+      "longitude": 144.331411017377
+    },
+    {
+      "id": "CW6626",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3936615157595,
+      "longitude": 144.321421028331
+    },
+    {
+      "id": "CW6627",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3938618006201,
+      "longitude": 144.322866867704
+    },
+    {
+      "id": "CW6628",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.393125456063,
+      "longitude": 144.322304468775
+    },
+    {
+      "id": "CW6629",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3933051091061,
+      "longitude": 144.323583067678
+    },
+    {
+      "id": "CW6630",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3934417879186,
+      "longitude": 144.324622284893
+    },
+    {
+      "id": "CW6631",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3939279395282,
+      "longitude": 144.323332502857
+    },
+    {
+      "id": "CW6632",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3941431067009,
+      "longitude": 144.32487749591
+    },
+    {
+      "id": "CW6633",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3951808287864,
+      "longitude": 144.324404193952
+    },
+    {
+      "id": "CW6797",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3873763839215,
+      "longitude": 144.319499602912
+    },
+    {
+      "id": "CW6805",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3892496294022,
+      "longitude": 144.326544664033
+    },
+    {
+      "id": "CW6806",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3884145219967,
+      "longitude": 144.328797634926
+    },
+    {
+      "id": "CW6807",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3879730673094,
+      "longitude": 144.329988520459
+    },
+    {
+      "id": "CW7054",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3918202679493,
+      "longitude": 144.314119547715
+    },
+    {
+      "id": "CW7055",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3926902889545,
+      "longitude": 144.313282686506
+    },
+    {
+      "id": "CW7955",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3850845783896,
+      "longitude": 144.323340856742
+    },
+    {
+      "id": "CW7956",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3907624586055,
+      "longitude": 144.325720925448
+    },
+    {
+      "id": "CW7957",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3867011493133,
+      "longitude": 144.32477425089
+    },
+    {
+      "id": "CW7958",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3926922651359,
+      "longitude": 144.326948214672
+    },
+    {
+      "id": "CW7959",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3915411788855,
+      "longitude": 144.32626631806
+    },
+    {
+      "id": "CW7960",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3907683364865,
+      "longitude": 144.325626673074
+    },
+    {
+      "id": "CW7961",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3908436558046,
+      "longitude": 144.322834008541
+    },
+    {
+      "id": "CW7962",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3967802074902,
+      "longitude": 144.322748568751
+    },
+    {
+      "id": "CW7963",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3962184123586,
+      "longitude": 144.319626407559
+    },
+    {
+      "id": "CW7964",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3952652189986,
+      "longitude": 144.319851839215
+    },
+    {
+      "id": "CW8416",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3867619165557,
+      "longitude": 144.316703508836
+    },
+    {
+      "id": "CW8417",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3818545933699,
+      "longitude": 144.316783700183
+    },
+    {
+      "id": "CW8418",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3831276326083,
+      "longitude": 144.316234712585
+    },
+    {
+      "id": "CW8419",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3899661353975,
+      "longitude": 144.316757094743
+    },
+    {
+      "id": "CW8420",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.389233039468,
+      "longitude": 144.317518473787
+    },
+    {
+      "id": "CW8421",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3885811159763,
+      "longitude": 144.318186743504
+    },
+    {
+      "id": "CW8422",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3918794091538,
+      "longitude": 144.30715435894
+    },
+    {
+      "id": "CW8423",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3914841278515,
+      "longitude": 144.308094605141
+    },
+    {
+      "id": "CW8424",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3907286033508,
+      "longitude": 144.306342909884
+    },
+    {
+      "id": "CW8425",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3896398756681,
+      "longitude": 144.305557382372
+    },
+    {
+      "id": "CW8426",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3883754654858,
+      "longitude": 144.308569101055
+    },
+    {
+      "id": "CW8427",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3892069146623,
+      "longitude": 144.306453432763
+    },
+    {
+      "id": "CW8428",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3875502666629,
+      "longitude": 144.312269025058
+    },
+    {
+      "id": "CW8429",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3880648776037,
+      "longitude": 144.309958214868
+    },
+    {
+      "id": "CW8430",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3879713262588,
+      "longitude": 144.315108884048
+    },
+    {
+      "id": "CW8431",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3877269130231,
+      "longitude": 144.314090502293
+    },
+    {
+      "id": "CW8433",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3879264556098,
+      "longitude": 144.316897216404
+    },
+    {
+      "id": "CW8434",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3940199622848,
+      "longitude": 144.329645568557
+    },
+    {
+      "id": "CW8435",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3902126770073,
+      "longitude": 144.33263875182
+    },
+    {
+      "id": "CW8436",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3905636191563,
+      "longitude": 144.336889283532
+    },
+    {
+      "id": "CW8437",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3903756953028,
+      "longitude": 144.335215910077
+    },
+    {
+      "id": "CW8438",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.390212422119,
+      "longitude": 144.333796198647
+    },
+    {
+      "id": "CW8439",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.389952068124,
+      "longitude": 144.331697820109
+    },
+    {
+      "id": "CW8440",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3883656874474,
+      "longitude": 144.330958234609
+    },
+    {
+      "id": "CW8441",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3896297571804,
+      "longitude": 144.330725609934
+    },
+    {
+      "id": "CW8442",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3927260137664,
+      "longitude": 144.326967005961
+    },
+    {
+      "id": "CW8443",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3932982302723,
+      "longitude": 144.326209591597
+    },
+    {
+      "id": "CW8444",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3942493698596,
+      "longitude": 144.326036545745
+    },
+    {
+      "id": "CW8445",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3950917679698,
+      "longitude": 144.32588329726
+    },
+    {
+      "id": "CW8446",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3959359420437,
+      "longitude": 144.325729699252
+    },
+    {
+      "id": "CW8447",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3969611344839,
+      "longitude": 144.325544303804
+    },
+    {
+      "id": "CW8448",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3977333342833,
+      "longitude": 144.325403805819
+    },
+    {
+      "id": "CW8449",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3977972413143,
+      "longitude": 144.324172743898
+    },
+    {
+      "id": "CW8450",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3976756667834,
+      "longitude": 144.323049879331
+    },
+    {
+      "id": "CW8451",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3975433624304,
+      "longitude": 144.321980475013
+    },
+    {
+      "id": "CW8452",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3974032107236,
+      "longitude": 144.320847572604
+    },
+    {
+      "id": "CW8453",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3972655226615,
+      "longitude": 144.31973477062
+    },
+    {
+      "id": "CW8488",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3900928337775,
+      "longitude": 144.322857192796
+    },
+    {
+      "id": "CW8489",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3890755736421,
+      "longitude": 144.323072767235
+    },
+    {
+      "id": "CW8491",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3884657802666,
+      "longitude": 144.322615204685
+    },
+    {
+      "id": "CW8492",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3883585786214,
+      "longitude": 144.322028057408
+    },
+    {
+      "id": "CW8493",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3881550977341,
+      "longitude": 144.324808235372
+    },
+    {
+      "id": "CW8494",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3904608344319,
+      "longitude": 144.324666365062
+    },
+    {
+      "id": "CW8497",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3893806653615,
+      "longitude": 144.321090086866
+    },
+    {
+      "id": "CW8498",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3869496793742,
+      "longitude": 144.326881548946
+    },
+    {
+      "id": "CW8499",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3872763585243,
+      "longitude": 144.329667298022
+    },
+    {
+      "id": "CW8500",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3909109327235,
+      "longitude": 144.328540502559
+    },
+    {
+      "id": "CW8501",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3911089446915,
+      "longitude": 144.330151258997
+    },
+    {
+      "id": "CW8502",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3946794611859,
+      "longitude": 144.318705054183
+    },
+    {
+      "id": "CW8503",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3930046891371,
+      "longitude": 144.319053294591
+    },
+    {
+      "id": "CW8504",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3912057986558,
+      "longitude": 144.320753024762
+    },
+    {
+      "id": "CW8505",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3938674831254,
+      "longitude": 144.320161884546
+    },
+    {
+      "id": "CW8506",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3917950926707,
+      "longitude": 144.330058951327
+    },
+    {
+      "id": "CW8507",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3920556448875,
+      "longitude": 144.320556204254
+    },
+    {
+      "id": "CW8508",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.390055668587,
+      "longitude": 144.319709544807
+    },
+    {
+      "id": "CW8509",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3913532210271,
+      "longitude": 144.319426673976
+    },
+    {
+      "id": "CW8510",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3902191302453,
+      "longitude": 144.320965159355
+    },
+    {
+      "id": "CW8511",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3950723796165,
+      "longitude": 144.318609456699
+    },
+    {
+      "id": "CW8512",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3958940665302,
+      "longitude": 144.322921383497
+    },
+    {
+      "id": "CW8513",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3851774553404,
+      "longitude": 144.316328116001
+    },
+    {
+      "id": "CW8527",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3865314606863,
+      "longitude": 144.323319074576
+    },
+    {
+      "id": "CW8528",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3879187815849,
+      "longitude": 144.323338009599
+    },
+    {
+      "id": "CW8529",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3888840231219,
+      "longitude": 144.32238991124
+    },
+    {
+      "id": "CW8530",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3892788557173,
+      "longitude": 144.324903098872
+    },
+    {
+      "id": "CW8531",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3863737604743,
+      "longitude": 144.321987307656
+    },
+    {
+      "id": "CW8623",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3906015971022,
+      "longitude": 144.337201782433
+    },
+    {
+      "id": "CW8636",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.395275797191,
+      "longitude": 144.323258673983
+    },
+    {
+      "id": "CW8940",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3937399865308,
+      "longitude": 144.317759232219
+    },
+    {
+      "id": "CW8943",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3921890415498,
+      "longitude": 144.320023898982
+    },
+    {
+      "id": "CW9166",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3804892024999,
+      "longitude": 144.315084764576
+    },
+    {
+      "id": "CW9278",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3891602028425,
+      "longitude": 144.320397624751
+    },
+    {
+      "id": "CW9424",
+      "suburb": "Trentham",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.3919905481563,
+      "longitude": 144.324627096722
+    }
+  ]
+}
