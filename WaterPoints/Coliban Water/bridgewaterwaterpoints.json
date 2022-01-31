@@ -1,0 +1,372 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW108",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5987083253638,
+      "longitude": 143.935697947794
+    },
+    {
+      "id": "CW108084",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5985728046411,
+      "longitude": 143.945028696266
+    },
+    {
+      "id": "CW109",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5995452418567,
+      "longitude": 143.935848965102
+    },
+    {
+      "id": "CW110",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6006617186102,
+      "longitude": 143.935274631014
+    },
+    {
+      "id": "CW111",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.60530754065,
+      "longitude": 143.934776995416
+    },
+    {
+      "id": "CW112",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6027532760979,
+      "longitude": 143.950605780753
+    },
+    {
+      "id": "CW113",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.601415889518,
+      "longitude": 143.948952532267
+    },
+    {
+      "id": "CW114",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6027048030288,
+      "longitude": 143.948583599979
+    },
+    {
+      "id": "CW115",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6006905317402,
+      "longitude": 143.948050941497
+    },
+    {
+      "id": "CW116",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5994565629067,
+      "longitude": 143.946118436189
+    },
+    {
+      "id": "CW117",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6029790446477,
+      "longitude": 143.944986923081
+    },
+    {
+      "id": "CW118",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.601812196385,
+      "longitude": 143.943522319156
+    },
+    {
+      "id": "CW119",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6044192412188,
+      "longitude": 143.946706579351
+    },
+    {
+      "id": "CW120",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6047520198615,
+      "longitude": 143.945359283144
+    },
+    {
+      "id": "CW121",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6045571913432,
+      "longitude": 143.945588137345
+    },
+    {
+      "id": "CW121691",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6067117516606,
+      "longitude": 143.93260005332
+    },
+    {
+      "id": "CW122",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6008654516216,
+      "longitude": 143.944567570025
+    },
+    {
+      "id": "CW123",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6050593271762,
+      "longitude": 143.938081679229
+    },
+    {
+      "id": "CW124",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6034646534313,
+      "longitude": 143.938970756163
+    },
+    {
+      "id": "CW125",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6038490077096,
+      "longitude": 143.940827803011
+    },
+    {
+      "id": "CW126",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.603613835771,
+      "longitude": 143.941943488793
+    },
+    {
+      "id": "CW127",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.603018697629,
+      "longitude": 143.942948644132
+    },
+    {
+      "id": "CW128",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6033532493055,
+      "longitude": 143.943377138338
+    },
+    {
+      "id": "CW129",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6023111559788,
+      "longitude": 143.940335666323
+    },
+    {
+      "id": "CW130",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6017082412725,
+      "longitude": 143.939615616088
+    },
+    {
+      "id": "CW212902",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6076041146922,
+      "longitude": 143.931906015808
+    },
+    {
+      "id": "CW212903",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6084679400982,
+      "longitude": 143.931253096659
+    },
+    {
+      "id": "CW250102",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6035725237143,
+      "longitude": 143.943988767243
+    },
+    {
+      "id": "CW53675",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6042775426385,
+      "longitude": 143.940289261503
+    },
+    {
+      "id": "CW56474",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6000687002937,
+      "longitude": 143.943636111707
+    },
+    {
+      "id": "CW6670",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6033328637194,
+      "longitude": 143.930431317055
+    },
+    {
+      "id": "CW6672",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6021841763449,
+      "longitude": 143.942266663029
+    },
+    {
+      "id": "CW6673",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6013049456646,
+      "longitude": 143.941177032573
+    },
+    {
+      "id": "CW6674",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6010006071329,
+      "longitude": 143.940353527196
+    },
+    {
+      "id": "CW6933",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6022310510001,
+      "longitude": 143.94044248238
+    },
+    {
+      "id": "CW8658",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.5998260339922,
+      "longitude": 143.937669686955
+    },
+    {
+      "id": "CW8659",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6013802875796,
+      "longitude": 143.936487613784
+    },
+    {
+      "id": "CW8660",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6042310007612,
+      "longitude": 143.934325187728
+    },
+    {
+      "id": "CW8661",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6058456816708,
+      "longitude": 143.93322107564
+    },
+    {
+      "id": "CW8822",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6044875089116,
+      "longitude": 143.943028550079
+    },
+    {
+      "id": "CW8834",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6015359754459,
+      "longitude": 143.937030518945
+    },
+    {
+      "id": "CW9643",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6000899865965,
+      "longitude": 143.93848943523
+    },
+    {
+      "id": "CW9644",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6000913230033,
+      "longitude": 143.938481480909
+    },
+    {
+      "id": "CW9645",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6009292414723,
+      "longitude": 143.940209548992
+    },
+    {
+      "id": "CW9646",
+      "suburb": "Bridgewater",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.6009258941059,
+      "longitude": 143.94021254241
+    },
+    {
+      "id": "CW400018",
+      "suburb": "Bridgewater",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -36.6048101305968,
+      "longitude": 143.933888542116
+    }
+  ]
+}

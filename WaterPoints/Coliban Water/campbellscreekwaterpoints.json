@@ -1,0 +1,1028 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW114485",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0891108682478,
+      "longitude": 144.2059078699
+    },
+    {
+      "id": "CW140489",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1027641997772,
+      "longitude": 144.201359964485
+    },
+    {
+      "id": "CW150896",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0959698042897,
+      "longitude": 144.206202009961
+    },
+    {
+      "id": "CW1818",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0868770787748,
+      "longitude": 144.204473405706
+    },
+    {
+      "id": "CW1819",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0825605915313,
+      "longitude": 144.204325333082
+    },
+    {
+      "id": "CW1820",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0895140562451,
+      "longitude": 144.196741936567
+    },
+    {
+      "id": "CW1898",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0892333353724,
+      "longitude": 144.209637130521
+    },
+    {
+      "id": "CW1899",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0908813761078,
+      "longitude": 144.213156589458
+    },
+    {
+      "id": "CW1900",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0866032122486,
+      "longitude": 144.208824542113
+    },
+    {
+      "id": "CW195701",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0874745949616,
+      "longitude": 144.195077397319
+    },
+    {
+      "id": "CW209302",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0853604563924,
+      "longitude": 144.194736299752
+    },
+    {
+      "id": "CW209303",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0853314698571,
+      "longitude": 144.197759432167
+    },
+    {
+      "id": "CW209304",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0844335321297,
+      "longitude": 144.197335562244
+    },
+    {
+      "id": "CW226502",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0905098568337,
+      "longitude": 144.208314493085
+    },
+    {
+      "id": "CW226503",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.090722764228,
+      "longitude": 144.209605968721
+    },
+    {
+      "id": "CW226504",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0910433579083,
+      "longitude": 144.207979527678
+    },
+    {
+      "id": "CW233302",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.101257009178,
+      "longitude": 144.214215942361
+    },
+    {
+      "id": "CW241302",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0956471951768,
+      "longitude": 144.20379889661
+    },
+    {
+      "id": "CW245302",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0924225898396,
+      "longitude": 144.205636456376
+    },
+    {
+      "id": "CW259302",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0937325557612,
+      "longitude": 144.205403584455
+    },
+    {
+      "id": "CW272502",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0821948986138,
+      "longitude": 144.208659187976
+    },
+    {
+      "id": "CW27259",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0876496218818,
+      "longitude": 144.210748553419
+    },
+    {
+      "id": "CW285702",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0970204637884,
+      "longitude": 144.204870406238
+    },
+    {
+      "id": "CW297702",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1009018342887,
+      "longitude": 144.200088485602
+    },
+    {
+      "id": "CW297703",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1011486995581,
+      "longitude": 144.199127298936
+    },
+    {
+      "id": "CW297704",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1013903889287,
+      "longitude": 144.19900403524
+    },
+    {
+      "id": "CW297705",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1019033396281,
+      "longitude": 144.198393412741
+    },
+    {
+      "id": "CW297706",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1016941379728,
+      "longitude": 144.197787734548
+    },
+    {
+      "id": "CW297707",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1018518396862,
+      "longitude": 144.199743222307
+    },
+    {
+      "id": "CW38059",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1041697393937,
+      "longitude": 144.202001289608
+    },
+    {
+      "id": "CW54078",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0811881716259,
+      "longitude": 144.20529424345
+    },
+    {
+      "id": "CW5733",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0834201156345,
+      "longitude": 144.208956313968
+    },
+    {
+      "id": "CW5734",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0847301217618,
+      "longitude": 144.208629863681
+    },
+    {
+      "id": "CW5735",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0823926853988,
+      "longitude": 144.210592904319
+    },
+    {
+      "id": "CW5802",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0820144232135,
+      "longitude": 144.207177239625
+    },
+    {
+      "id": "CW5803",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0823093445868,
+      "longitude": 144.209840547965
+    },
+    {
+      "id": "CW5949",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0879030700713,
+      "longitude": 144.194949675325
+    },
+    {
+      "id": "CW5950",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0872382137681,
+      "longitude": 144.192384200472
+    },
+    {
+      "id": "CW5951",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.088531587342,
+      "longitude": 144.191763420229
+    },
+    {
+      "id": "CW5983",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0860835978776,
+      "longitude": 144.19401086053
+    },
+    {
+      "id": "CW5984",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0863740446552,
+      "longitude": 144.196670501882
+    },
+    {
+      "id": "CW5994",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0950255900185,
+      "longitude": 144.204962943008
+    },
+    {
+      "id": "CW6000",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0799151614062,
+      "longitude": 144.211359414354
+    },
+    {
+      "id": "CW60875",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1014940225069,
+      "longitude": 144.205577912542
+    },
+    {
+      "id": "CW6233",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0903587410195,
+      "longitude": 144.205769120598
+    },
+    {
+      "id": "CW6263",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1035159183579,
+      "longitude": 144.204744564084
+    },
+    {
+      "id": "CW6264",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1032389582276,
+      "longitude": 144.202514508888
+    },
+    {
+      "id": "CW6265",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1016260203194,
+      "longitude": 144.203465373567
+    },
+    {
+      "id": "CW6266",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1024837790211,
+      "longitude": 144.204623493727
+    },
+    {
+      "id": "CW6526",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.095984123938,
+      "longitude": 144.201122320107
+    },
+    {
+      "id": "CW6885",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0793140287138,
+      "longitude": 144.206559139623
+    },
+    {
+      "id": "CW6886",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0815235505787,
+      "longitude": 144.206567536364
+    },
+    {
+      "id": "CW6909",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0803680932636,
+      "longitude": 144.206559385176
+    },
+    {
+      "id": "CW6913",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0797659734566,
+      "longitude": 144.206028464659
+    },
+    {
+      "id": "CW7899",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0835055692557,
+      "longitude": 144.197606379547
+    },
+    {
+      "id": "CW7900",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0866134512064,
+      "longitude": 144.198817963443
+    },
+    {
+      "id": "CW7901",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0866887839987,
+      "longitude": 144.200615532406
+    },
+    {
+      "id": "CW7902",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0893472715321,
+      "longitude": 144.215127908047
+    },
+    {
+      "id": "CW7903",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0905131373224,
+      "longitude": 144.219404394207
+    },
+    {
+      "id": "CW7904",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0902145630549,
+      "longitude": 144.217596540677
+    },
+    {
+      "id": "CW7975",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0811434436271,
+      "longitude": 144.203258434382
+    },
+    {
+      "id": "CW7976",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0828007685548,
+      "longitude": 144.198807898214
+    },
+    {
+      "id": "CW7977",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.082482745575,
+      "longitude": 144.196622590254
+    },
+    {
+      "id": "CW7978",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0824731448813,
+      "longitude": 144.19732459291
+    },
+    {
+      "id": "CW7979",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0811674619586,
+      "longitude": 144.198625246216
+    },
+    {
+      "id": "CW7980",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0821539880642,
+      "longitude": 144.197980714567
+    },
+    {
+      "id": "CW7987",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0833805706287,
+      "longitude": 144.205161633173
+    },
+    {
+      "id": "CW7988",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.088447097836,
+      "longitude": 144.20462158739
+    },
+    {
+      "id": "CW7989",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0850758459802,
+      "longitude": 144.204245003209
+    },
+    {
+      "id": "CW7990",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0919492036459,
+      "longitude": 144.205675336974
+    },
+    {
+      "id": "CW7991",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0914746414992,
+      "longitude": 144.205707533327
+    },
+    {
+      "id": "CW7992",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0889933564681,
+      "longitude": 144.207624614216
+    },
+    {
+      "id": "CW7993",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0897779465846,
+      "longitude": 144.208206276509
+    },
+    {
+      "id": "CW7994",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0944738169942,
+      "longitude": 144.203760579869
+    },
+    {
+      "id": "CW7995",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0929758870362,
+      "longitude": 144.20401825792
+    },
+    {
+      "id": "CW7996",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0916007107615,
+      "longitude": 144.204256168887
+    },
+    {
+      "id": "CW7997",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1009910598744,
+      "longitude": 144.213139253856
+    },
+    {
+      "id": "CW7998",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.100801320489,
+      "longitude": 144.211491283484
+    },
+    {
+      "id": "CW7999",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1018753283992,
+      "longitude": 144.208403751424
+    },
+    {
+      "id": "CW8000",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1017767451586,
+      "longitude": 144.205527142239
+    },
+    {
+      "id": "CW8001",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1024575639671,
+      "longitude": 144.205757318927
+    },
+    {
+      "id": "CW8002",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1029975752089,
+      "longitude": 144.207580875081
+    },
+    {
+      "id": "CW8003",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1028896294665,
+      "longitude": 144.209556883394
+    },
+    {
+      "id": "CW8004",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1028614865517,
+      "longitude": 144.210632642449
+    },
+    {
+      "id": "CW8005",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1018786799259,
+      "longitude": 144.210103960658
+    },
+    {
+      "id": "CW8006",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1011327903291,
+      "longitude": 144.209762484524
+    },
+    {
+      "id": "CW8007",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0991513728067,
+      "longitude": 144.208833748684
+    },
+    {
+      "id": "CW8008",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0970948333634,
+      "longitude": 144.205819435563
+    },
+    {
+      "id": "CW8009",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0962135929725,
+      "longitude": 144.20398407875
+    },
+    {
+      "id": "CW8010",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0965665048424,
+      "longitude": 144.201661671153
+    },
+    {
+      "id": "CW8011",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0954528071243,
+      "longitude": 144.202604476793
+    },
+    {
+      "id": "CW8012",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.09502351019,
+      "longitude": 144.203437229706
+    },
+    {
+      "id": "CW8013",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0982240897444,
+      "longitude": 144.20051742001
+    },
+    {
+      "id": "CW8014",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0861061265621,
+      "longitude": 144.193890238561
+    },
+    {
+      "id": "CW8017",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0872843653006,
+      "longitude": 144.190000276886
+    },
+    {
+      "id": "CW8018",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0867576896206,
+      "longitude": 144.190241209335
+    },
+    {
+      "id": "CW8019",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0902482914346,
+      "longitude": 144.198971665721
+    },
+    {
+      "id": "CW8020",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0905277253078,
+      "longitude": 144.1994147499
+    },
+    {
+      "id": "CW8021",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0885911731803,
+      "longitude": 144.19843658034
+    },
+    {
+      "id": "CW8022",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0882369832025,
+      "longitude": 144.196456778677
+    },
+    {
+      "id": "CW8023",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0889994005361,
+      "longitude": 144.200371848129
+    },
+    {
+      "id": "CW8048",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0875959500393,
+      "longitude": 144.208652456975
+    },
+    {
+      "id": "CW8049",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0884197275812,
+      "longitude": 144.20848891895
+    },
+    {
+      "id": "CW8050",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.089777764669,
+      "longitude": 144.216437394314
+    },
+    {
+      "id": "CW8051",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0885154224538,
+      "longitude": 144.214984085487
+    },
+    {
+      "id": "CW8052",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0889856651429,
+      "longitude": 144.213558582549
+    },
+    {
+      "id": "CW8053",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0931022669612,
+      "longitude": 144.217373644596
+    },
+    {
+      "id": "CW8054",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0921524172339,
+      "longitude": 144.215128582767
+    },
+    {
+      "id": "CW8055",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0893326699592,
+      "longitude": 144.212149975631
+    },
+    {
+      "id": "CW8056",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0881074134162,
+      "longitude": 144.211472465701
+    },
+    {
+      "id": "CW8058",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0955159482352,
+      "longitude": 144.198624935545
+    },
+    {
+      "id": "CW8059",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0942822148453,
+      "longitude": 144.199880701038
+    },
+    {
+      "id": "CW8060",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0856421481285,
+      "longitude": 144.206787467528
+    },
+    {
+      "id": "CW8061",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0842009886172,
+      "longitude": 144.206728564041
+    },
+    {
+      "id": "CW8062",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0822452088717,
+      "longitude": 144.206244205687
+    },
+    {
+      "id": "CW8063",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.08460112069,
+      "longitude": 144.205872739204
+    },
+    {
+      "id": "CW8136",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1087068025979,
+      "longitude": 144.190972702288
+    },
+    {
+      "id": "CW8137",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.106928261027,
+      "longitude": 144.190716905305
+    },
+    {
+      "id": "CW87278",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1038432836136,
+      "longitude": 144.20803339297
+    },
+    {
+      "id": "CW8882",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0948099277959,
+      "longitude": 144.205026239534
+    },
+    {
+      "id": "CW9014",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1034121513579,
+      "longitude": 144.212745590476
+    },
+    {
+      "id": "CW9015",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.102279033177,
+      "longitude": 144.213377155184
+    },
+    {
+      "id": "CW9044",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0848370892582,
+      "longitude": 144.208534336037
+    },
+    {
+      "id": "CW92078",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0821005558654,
+      "longitude": 144.207728777182
+    },
+    {
+      "id": "CW92079",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0828103021912,
+      "longitude": 144.207404969647
+    },
+    {
+      "id": "CW92080",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0828417053703,
+      "longitude": 144.207672610025
+    },
+    {
+      "id": "CW9467",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.0925767604432,
+      "longitude": 144.215898165289
+    },
+    {
+      "id": "CW99678",
+      "suburb": "Campbells Creek",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -37.1019784678219,
+      "longitude": 144.202594096394
+    }
+  ]
+}

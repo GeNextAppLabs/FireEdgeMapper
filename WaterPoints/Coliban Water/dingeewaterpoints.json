@@ -1,0 +1,60 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW7229",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3681428271221,
+      "longitude": 144.231991740346
+    },
+    {
+      "id": "CW7230",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3706327259361,
+      "longitude": 144.231991227507
+    },
+    {
+      "id": "CW7231",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3757433430503,
+      "longitude": 144.230406500578
+    },
+    {
+      "id": "CW7232",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3738640709922,
+      "longitude": 144.230471122821
+    },
+    {
+      "id": "CW7233",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3708469199703,
+      "longitude": 144.230311099747
+    },
+    {
+      "id": "CW7234",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3711470920937,
+      "longitude": 144.232291374483
+    },
+    {
+      "id": "CW7235",
+      "suburb": "Dingee",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.3661663744403,
+      "longitude": 144.231992311756
+    }
+  ]
+}

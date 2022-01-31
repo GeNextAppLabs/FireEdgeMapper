@@ -1,0 +1,868 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW100",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1251203071872,
+      "longitude": 143.716912694773
+    },
+    {
+      "id": "CW101",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1201455626307,
+      "longitude": 143.721122708101
+    },
+    {
+      "id": "CW102",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.123695568637,
+      "longitude": 143.717768944775
+    },
+    {
+      "id": "CW103",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1246555426853,
+      "longitude": 143.71719672206
+    },
+    {
+      "id": "CW104",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1103595623647,
+      "longitude": 143.725231763435
+    },
+    {
+      "id": "CW105",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.109714624117,
+      "longitude": 143.72569340043
+    },
+    {
+      "id": "CW121285",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1167362037691,
+      "longitude": 143.729213338068
+    },
+    {
+      "id": "CW19",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1149222833058,
+      "longitude": 143.720630683666
+    },
+    {
+      "id": "CW20",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1130552672764,
+      "longitude": 143.721231012099
+    },
+    {
+      "id": "CW200902",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1166701074078,
+      "longitude": 143.720750267757
+    },
+    {
+      "id": "CW200903",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1193431000775,
+      "longitude": 143.719057860206
+    },
+    {
+      "id": "CW200905",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.11761706444,
+      "longitude": 143.719541423277
+    },
+    {
+      "id": "CW21",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1118935583611,
+      "longitude": 143.721576779724
+    },
+    {
+      "id": "CW22",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1099610893388,
+      "longitude": 143.721354738824
+    },
+    {
+      "id": "CW24",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1139512376969,
+      "longitude": 143.720952487813
+    },
+    {
+      "id": "CW25",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1140382006775,
+      "longitude": 143.71976264697
+    },
+    {
+      "id": "CW250502",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.117517205802,
+      "longitude": 143.717819153591
+    },
+    {
+      "id": "CW250503",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1182794577952,
+      "longitude": 143.717682218046
+    },
+    {
+      "id": "CW250504",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1191389839812,
+      "longitude": 143.717524854995
+    },
+    {
+      "id": "CW26",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1147976689807,
+      "longitude": 143.719521414895
+    },
+    {
+      "id": "CW263303",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1124510394144,
+      "longitude": 143.729382928259
+    },
+    {
+      "id": "CW27",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1146831349662,
+      "longitude": 143.718494557846
+    },
+    {
+      "id": "CW28",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1147479429462,
+      "longitude": 143.726088510399
+    },
+    {
+      "id": "CW287702",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1177792444069,
+      "longitude": 143.724654668434
+    },
+    {
+      "id": "CW287703",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1180800444723,
+      "longitude": 143.723977011926
+    },
+    {
+      "id": "CW29",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1153988200562,
+      "longitude": 143.72595919978
+    },
+    {
+      "id": "CW30",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1167103414969,
+      "longitude": 143.725597154948
+    },
+    {
+      "id": "CW34",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1162379472928,
+      "longitude": 143.722351865759
+    },
+    {
+      "id": "CW35",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1158699590883,
+      "longitude": 143.72470695754
+    },
+    {
+      "id": "CW36",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1152310526467,
+      "longitude": 143.723551130758
+    },
+    {
+      "id": "CW37",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1149949867936,
+      "longitude": 143.723691076166
+    },
+    {
+      "id": "CW38",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1145539279898,
+      "longitude": 143.724110972492
+    },
+    {
+      "id": "CW39",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1123332992492,
+      "longitude": 143.727877721985
+    },
+    {
+      "id": "CW40",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1160978752502,
+      "longitude": 143.725799741506
+    },
+    {
+      "id": "CW41",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1109357472197,
+      "longitude": 143.728905678266
+    },
+    {
+      "id": "CW42",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1124002507146,
+      "longitude": 143.72730915613
+    },
+    {
+      "id": "CW43",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1126405845952,
+      "longitude": 143.729108025671
+    },
+    {
+      "id": "CW44",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1133221930668,
+      "longitude": 143.726727637943
+    },
+    {
+      "id": "CW45",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1147567769574,
+      "longitude": 143.727552459427
+    },
+    {
+      "id": "CW46",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1155130400256,
+      "longitude": 143.728619467987
+    },
+    {
+      "id": "CW47",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.116185756128,
+      "longitude": 143.727394693867
+    },
+    {
+      "id": "CW48",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1130904572247,
+      "longitude": 143.732606593093
+    },
+    {
+      "id": "CW49",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1136749832831,
+      "longitude": 143.732243593838
+    },
+    {
+      "id": "CW50",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1141308730021,
+      "longitude": 143.731960478132
+    },
+    {
+      "id": "CW51",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1146659426273,
+      "longitude": 143.731313387222
+    },
+    {
+      "id": "CW52",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1115756266711,
+      "longitude": 143.7335054735
+    },
+    {
+      "id": "CW53",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1121044211416,
+      "longitude": 143.732105728978
+    },
+    {
+      "id": "CW54",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1114117170422,
+      "longitude": 143.732438768825
+    },
+    {
+      "id": "CW55",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1113607532313,
+      "longitude": 143.73122025872
+    },
+    {
+      "id": "CW5509",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.110364071121,
+      "longitude": 143.732264324362
+    },
+    {
+      "id": "CW5510",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1105876422378,
+      "longitude": 143.734120708721
+    },
+    {
+      "id": "CW5511",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1098029779388,
+      "longitude": 143.734610853374
+    },
+    {
+      "id": "CW57",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1149234082911,
+      "longitude": 143.73051293863
+    },
+    {
+      "id": "CW58",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.114311127901,
+      "longitude": 143.73065472461
+    },
+    {
+      "id": "CW59",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1128978042447,
+      "longitude": 143.7309236647
+    },
+    {
+      "id": "CW60",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1141273924454,
+      "longitude": 143.729062695899
+    },
+    {
+      "id": "CW61",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1142452828242,
+      "longitude": 143.729866130712
+    },
+    {
+      "id": "CW62",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1158875900314,
+      "longitude": 143.733088180403
+    },
+    {
+      "id": "CW63",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1149756400148,
+      "longitude": 143.733072630156
+    },
+    {
+      "id": "CW6362",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1182490715471,
+      "longitude": 143.723358019834
+    },
+    {
+      "id": "CW6363",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1186389930745,
+      "longitude": 143.722499687552
+    },
+    {
+      "id": "CW6364",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1193273906849,
+      "longitude": 143.721731283247
+    },
+    {
+      "id": "CW6365",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1209547372039,
+      "longitude": 143.720579213514
+    },
+    {
+      "id": "CW6366",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1218484178199,
+      "longitude": 143.719416121648
+    },
+    {
+      "id": "CW6367",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1225411322414,
+      "longitude": 143.718477640484
+    },
+    {
+      "id": "CW6368",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1229979190301,
+      "longitude": 143.717588538106
+    },
+    {
+      "id": "CW64",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1161860537391,
+      "longitude": 143.720419551709
+    },
+    {
+      "id": "CW6460",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1190989573997,
+      "longitude": 143.721012346272
+    },
+    {
+      "id": "CW67",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1164556675387,
+      "longitude": 143.717985468631
+    },
+    {
+      "id": "CW6794",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1132782727668,
+      "longitude": 143.727836502572
+    },
+    {
+      "id": "CW6795",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1116362830625,
+      "longitude": 143.728148155118
+    },
+    {
+      "id": "CW68",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1165785944045,
+      "longitude": 143.718945550096
+    },
+    {
+      "id": "CW6991",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1107301525993,
+      "longitude": 143.727277282824
+    },
+    {
+      "id": "CW74",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1173885537743,
+      "longitude": 143.725400183999
+    },
+    {
+      "id": "CW75",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1172287948612,
+      "longitude": 143.724426585353
+    },
+    {
+      "id": "CW76",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1171049498563,
+      "longitude": 143.723425119932
+    },
+    {
+      "id": "CW77",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1170400865125,
+      "longitude": 143.722883745414
+    },
+    {
+      "id": "CW78",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1168761124795,
+      "longitude": 143.721468205318
+    },
+    {
+      "id": "CW79",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1169856874228,
+      "longitude": 143.722415581892
+    },
+    {
+      "id": "CW80",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1176762636292,
+      "longitude": 143.722234638987
+    },
+    {
+      "id": "CW81",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1168659128323,
+      "longitude": 143.724960977587
+    },
+    {
+      "id": "CW82",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1166846563707,
+      "longitude": 143.724054117771
+    },
+    {
+      "id": "CW83",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1165382184419,
+      "longitude": 143.723321569186
+    },
+    {
+      "id": "CW84",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1164231041645,
+      "longitude": 143.72249115247
+    },
+    {
+      "id": "CW86",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1184596021541,
+      "longitude": 143.720746315379
+    },
+    {
+      "id": "CW8621",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1156390072527,
+      "longitude": 143.717235404248
+    },
+    {
+      "id": "CW8622",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1160731064543,
+      "longitude": 143.719443408235
+    },
+    {
+      "id": "CW87",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1194902037123,
+      "longitude": 143.719978432149
+    },
+    {
+      "id": "CW8705",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1231864978646,
+      "longitude": 143.713080580178
+    },
+    {
+      "id": "CW8706",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1232653725515,
+      "longitude": 143.708845449098
+    },
+    {
+      "id": "CW88",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1191333907819,
+      "longitude": 143.722259053238
+    },
+    {
+      "id": "CW8864",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1120570925069,
+      "longitude": 143.725689561516
+    },
+    {
+      "id": "CW89",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.124943956324,
+      "longitude": 143.715548601923
+    },
+    {
+      "id": "CW90",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1248199131087,
+      "longitude": 143.714611952928
+    },
+    {
+      "id": "CW91",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1246090258602,
+      "longitude": 143.713019625375
+    },
+    {
+      "id": "CW92",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1233452639835,
+      "longitude": 143.709481711914
+    },
+    {
+      "id": "CW9218",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1104664338325,
+      "longitude": 143.726083441858
+    },
+    {
+      "id": "CW9219",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1105028067342,
+      "longitude": 143.726331955871
+    },
+    {
+      "id": "CW9258",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1163048755412,
+      "longitude": 143.723082096972
+    },
+    {
+      "id": "CW9259",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1165413751147,
+      "longitude": 143.724241994699
+    },
+    {
+      "id": "CW9260",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.116803340174,
+      "longitude": 143.725524797694
+    },
+    {
+      "id": "CW93",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1235778746533,
+      "longitude": 143.711053569435
+    },
+    {
+      "id": "CW94",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1243619514266,
+      "longitude": 143.716571492051
+    },
+    {
+      "id": "CW95",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1249180935316,
+      "longitude": 143.719806764789
+    },
+    {
+      "id": "CW96",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1246282138033,
+      "longitude": 143.719322663794
+    },
+    {
+      "id": "CW97",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1254512689111,
+      "longitude": 143.719560544153
+    },
+    {
+      "id": "CW98",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1252359088997,
+      "longitude": 143.717837585256
+    },
+    {
+      "id": "CW99",
+      "suburb": "Boort",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.1253461671683,
+      "longitude": 143.718719693501
+    }
+  ]
+}

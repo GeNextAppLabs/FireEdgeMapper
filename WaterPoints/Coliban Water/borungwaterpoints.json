@@ -1,0 +1,68 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW106",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2906214780538,
+      "longitude": 143.751789123379
+    },
+    {
+      "id": "CW107",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2889211756702,
+      "longitude": 143.746369437681
+    },
+    {
+      "id": "CW20457",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.291493521333,
+      "longitude": 143.751635026661
+    },
+    {
+      "id": "CW20458",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2912909246797,
+      "longitude": 143.752110571778
+    },
+    {
+      "id": "CW20459",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2897123742677,
+      "longitude": 143.755462550962
+    },
+    {
+      "id": "CW20460",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2892972612049,
+      "longitude": 143.752347747616
+    },
+    {
+      "id": "CW20857",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2903891596283,
+      "longitude": 143.754227159071
+    },
+    {
+      "id": "CW6661",
+      "suburb": "Borung",
+      "description": "",
+      "type": "Fire Plug NP",
+      "latitude": -36.2878900164362,
+      "longitude": 143.738011465828
+    }
+  ]
+}

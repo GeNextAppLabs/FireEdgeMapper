@@ -1,0 +1,212 @@
+﻿{
+  "waterpoints": [
+    {
+      "id": "CW1",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7843800045725,
+      "longitude": 143.554243094354
+    },
+    {
+      "id": "CW10",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7949929345491,
+      "longitude": 143.558686425795
+    },
+    {
+      "id": "CW11",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.79312453848,
+      "longitude": 143.556673134345
+    },
+    {
+      "id": "CW12",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7918081833851,
+      "longitude": 143.555704433689
+    },
+    {
+      "id": "CW13",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.790367105379,
+      "longitude": 143.554832443656
+    },
+    {
+      "id": "CW14",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7879457068688,
+      "longitude": 143.551323023375
+    },
+    {
+      "id": "CW15",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7873981942544,
+      "longitude": 143.551805877585
+    },
+    {
+      "id": "CW16",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7862772072552,
+      "longitude": 143.552820437824
+    },
+    {
+      "id": "CW17",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7824223870838,
+      "longitude": 143.555768288952
+    },
+    {
+      "id": "CW18",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7897008178498,
+      "longitude": 143.550989895761
+    },
+    {
+      "id": "CW2",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7871826429846,
+      "longitude": 143.55040751897
+    },
+    {
+      "id": "CW23257",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7973151846147,
+      "longitude": 143.560601431099
+    },
+    {
+      "id": "CW3",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7883082037417,
+      "longitude": 143.550953754376
+    },
+    {
+      "id": "CW4",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7886329920136,
+      "longitude": 143.550664858742
+    },
+    {
+      "id": "CW5",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.789075114087,
+      "longitude": 143.550271564944
+    },
+    {
+      "id": "CW6",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7894158831891,
+      "longitude": 143.549714870521
+    },
+    {
+      "id": "CW6779",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7894886423062,
+      "longitude": 143.554203779378
+    },
+    {
+      "id": "CW6780",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7886699470128,
+      "longitude": 143.55248003797
+    },
+    {
+      "id": "CW7",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7900321270995,
+      "longitude": 143.548158967434
+    },
+    {
+      "id": "CW8",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7903170737442,
+      "longitude": 143.546497287062
+    },
+    {
+      "id": "CW9",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7905988461494,
+      "longitude": 143.544181768637
+    },
+    {
+      "id": "CW9146",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7879585415154,
+      "longitude": 143.555731179836
+    },
+    {
+      "id": "CW9632",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7897901506126,
+      "longitude": 143.551160207594
+    },
+    {
+      "id": "CW9633",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7887009222857,
+      "longitude": 143.552149940572
+    },
+    {
+      "id": "CW9634",
+      "suburb": "Bealiba",
+      "description": "",
+      "type": "Fire Plug",
+      "latitude": -36.7893324930849,
+      "longitude": 143.551591714106
+    },
+    {
+      "id": "CW400016",
+      "suburb": "Bealiba",
+      "description": "Private Standpipe",
+      "type": "Standpipe",
+      "latitude": -36.7899876951833,
+      "longitude": 143.548221501029
+    }
+  ]
+}
